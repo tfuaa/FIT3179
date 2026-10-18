@@ -1,0 +1,3170 @@
+date,site,pm25
+2025-01-01,Box Hill,5.95
+2025-01-01,Brighton,6.05
+2025-01-01,Dandenong,5.47
+2025-01-01,Geelong South,4.54
+2025-01-01,Macleod,3.14
+2025-01-01,Melbourne CBD,9.68
+2025-01-01,Melton,4.77
+2025-01-01,Traralgon,5.02
+2025-01-02,Box Hill,6.79
+2025-01-02,Brighton,7.93
+2025-01-02,Dandenong,7.22
+2025-01-02,Geelong South,6.26
+2025-01-02,Macleod,4.97
+2025-01-02,Melbourne CBD,7.84
+2025-01-02,Melton,4.94
+2025-01-02,Traralgon,7.56
+2025-01-03,Box Hill,7.6
+2025-01-03,Brighton,9.47
+2025-01-03,Dandenong,7.52
+2025-01-03,Geelong South,6.95
+2025-01-03,Macleod,6.68
+2025-01-03,Melbourne CBD,10.55
+2025-01-03,Melton,8.0
+2025-01-03,Traralgon,6.11
+2025-01-04,Box Hill,6.48
+2025-01-04,Brighton,7.78
+2025-01-04,Dandenong,7.98
+2025-01-04,Geelong South,9.17
+2025-01-04,Macleod,5.08
+2025-01-04,Melbourne CBD,8.11
+2025-01-04,Melton,5.71
+2025-01-04,Traralgon,9.45
+2025-01-05,Box Hill,4.93
+2025-01-05,Brighton,8.93
+2025-01-05,Dandenong,8.33
+2025-01-05,Geelong South,6.83
+2025-01-05,Macleod,3.35
+2025-01-05,Melbourne CBD,8.14
+2025-01-05,Melton,5.12
+2025-01-05,Traralgon,10.18
+2025-01-06,Box Hill,6.01
+2025-01-06,Brighton,6.82
+2025-01-06,Dandenong,7.18
+2025-01-06,Geelong South,5.03
+2025-01-06,Macleod,3.38
+2025-01-06,Melbourne CBD,7.48
+2025-01-06,Melton,3.8
+2025-01-06,Traralgon,8.5
+2025-01-07,Box Hill,4.61
+2025-01-07,Brighton,6.28
+2025-01-07,Dandenong,5.15
+2025-01-07,Geelong South,5.9
+2025-01-07,Macleod,3.74
+2025-01-07,Melbourne CBD,6.37
+2025-01-07,Melton,4.39
+2025-01-07,Traralgon,6.28
+2025-01-08,Box Hill,5.69
+2025-01-08,Brighton,8.84
+2025-01-08,Dandenong,6.37
+2025-01-08,Geelong South,5.38
+2025-01-08,Macleod,5.21
+2025-01-08,Melbourne CBD,7.87
+2025-01-08,Melton,7.76
+2025-01-08,Traralgon,8.43
+2025-01-09,Box Hill,6.16
+2025-01-09,Brighton,7.71
+2025-01-09,Dandenong,7.1
+2025-01-09,Geelong South,6.7
+2025-01-09,Macleod,4.47
+2025-01-09,Melbourne CBD,7.32
+2025-01-09,Melton,5.91
+2025-01-09,Traralgon,8.95
+2025-01-10,Box Hill,7.67
+2025-01-10,Brighton,10.2
+2025-01-10,Dandenong,7.28
+2025-01-10,Geelong South,7.74
+2025-01-10,Macleod,9.41
+2025-01-10,Melbourne CBD,12.4
+2025-01-10,Melton,8.79
+2025-01-10,Traralgon,7.96
+2025-01-11,Box Hill,5.18
+2025-01-11,Brighton,9.08
+2025-01-11,Dandenong,5.72
+2025-01-11,Geelong South,8.25
+2025-01-11,Macleod,6.02
+2025-01-11,Melbourne CBD,8.62
+2025-01-11,Melton,6.04
+2025-01-11,Traralgon,6.73
+2025-01-12,Box Hill,5.64
+2025-01-12,Brighton,7.06
+2025-01-12,Dandenong,6.5
+2025-01-12,Geelong South,6.32
+2025-01-12,Macleod,3.91
+2025-01-12,Melbourne CBD,7.95
+2025-01-12,Melton,5.27
+2025-01-12,Traralgon,6.25
+2025-01-13,Box Hill,7.33
+2025-01-13,Brighton,7.03
+2025-01-13,Dandenong,7.94
+2025-01-13,Geelong South,4.63
+2025-01-13,Macleod,5.64
+2025-01-13,Melbourne CBD,8.41
+2025-01-13,Melton,7.13
+2025-01-13,Traralgon,8.4
+2025-01-14,Box Hill,6.33
+2025-01-14,Brighton,6.59
+2025-01-14,Dandenong,7.19
+2025-01-14,Geelong South,3.9
+2025-01-14,Macleod,5.45
+2025-01-14,Melbourne CBD,8.38
+2025-01-14,Melton,4.85
+2025-01-14,Traralgon,10.34
+2025-01-15,Box Hill,9.03
+2025-01-15,Brighton,9.81
+2025-01-15,Dandenong,7.55
+2025-01-15,Geelong South,5.67
+2025-01-15,Macleod,6.29
+2025-01-15,Melbourne CBD,9.18
+2025-01-15,Melton,4.89
+2025-01-15,Traralgon,7.12
+2025-01-16,Box Hill,5.37
+2025-01-16,Brighton,7.2
+2025-01-16,Dandenong,6.23
+2025-01-16,Geelong South,4.13
+2025-01-16,Macleod,4.81
+2025-01-16,Melbourne CBD,8.08
+2025-01-16,Melton,5.03
+2025-01-16,Traralgon,6.62
+2025-01-17,Box Hill,6.91
+2025-01-17,Brighton,9.03
+2025-01-17,Dandenong,6.9
+2025-01-17,Geelong South,6.48
+2025-01-17,Macleod,5.01
+2025-01-17,Melbourne CBD,9.41
+2025-01-17,Melton,5.89
+2025-01-17,Traralgon,7.83
+2025-01-18,Box Hill,7.24
+2025-01-18,Brighton,9.64
+2025-01-18,Dandenong,6.85
+2025-01-18,Geelong South,6.75
+2025-01-18,Macleod,6.29
+2025-01-18,Melbourne CBD,9.6
+2025-01-18,Melton,8.44
+2025-01-18,Traralgon,9.31
+2025-01-19,Box Hill,5.11
+2025-01-19,Brighton,7.15
+2025-01-19,Dandenong,6.69
+2025-01-19,Geelong South,7.18
+2025-01-19,Macleod,3.7
+2025-01-19,Melbourne CBD,8.66
+2025-01-19,Melton,5.77
+2025-01-19,Traralgon,7.47
+2025-01-20,Box Hill,9.49
+2025-01-20,Brighton,12.16
+2025-01-20,Dandenong,9.51
+2025-01-20,Geelong South,8.94
+2025-01-20,Macleod,8.18
+2025-01-20,Melbourne CBD,12.94
+2025-01-20,Melton,8.44
+2025-01-20,Traralgon,8.16
+2025-01-21,Box Hill,12.93
+2025-01-21,Brighton,12.78
+2025-01-21,Dandenong,11.25
+2025-01-21,Geelong South,7.54
+2025-01-21,Macleod,11.87
+2025-01-21,Melbourne CBD,14.89
+2025-01-21,Melton,10.88
+2025-01-21,Traralgon,7.72
+2025-01-22,Alphington,6.34
+2025-01-22,Box Hill,6.14
+2025-01-22,Brighton,7.46
+2025-01-22,Dandenong,6.22
+2025-01-22,Geelong South,4.69
+2025-01-22,Macleod,4.59
+2025-01-22,Melbourne CBD,7.96
+2025-01-22,Melton,4.42
+2025-01-22,Traralgon,6.69
+2025-01-23,Alphington,6.75
+2025-01-23,Box Hill,7.33
+2025-01-23,Brighton,8.71
+2025-01-23,Dandenong,8.32
+2025-01-23,Geelong South,4.13
+2025-01-23,Macleod,5.88
+2025-01-23,Melbourne CBD,8.97
+2025-01-23,Melton,5.46
+2025-01-23,Traralgon,6.4
+2025-01-24,Alphington,3.35
+2025-01-24,Box Hill,3.28
+2025-01-24,Brighton,5.18
+2025-01-24,Dandenong,4.46
+2025-01-24,Geelong South,2.63
+2025-01-24,Macleod,3.52
+2025-01-24,Melbourne CBD,5.36
+2025-01-24,Melton,3.76
+2025-01-24,Traralgon,4.79
+2025-01-25,Alphington,6.0
+2025-01-25,Box Hill,5.61
+2025-01-25,Brighton,7.39
+2025-01-25,Dandenong,5.1
+2025-01-25,Geelong South,3.28
+2025-01-25,Macleod,4.93
+2025-01-25,Melbourne CBD,8.88
+2025-01-25,Melton,3.6
+2025-01-25,Traralgon,6.43
+2025-01-26,Alphington,5.52
+2025-01-26,Box Hill,5.32
+2025-01-26,Brighton,7.56
+2025-01-26,Dandenong,5.04
+2025-01-26,Geelong South,3.43
+2025-01-26,Macleod,3.91
+2025-01-26,Melbourne CBD,6.99
+2025-01-26,Melton,4.76
+2025-01-26,Traralgon,5.74
+2025-01-27,Alphington,6.78
+2025-01-27,Box Hill,6.56
+2025-01-27,Brighton,8.75
+2025-01-27,Dandenong,9.93
+2025-01-27,Geelong South,6.6
+2025-01-27,Macleod,5.73
+2025-01-27,Melbourne CBD,9.01
+2025-01-27,Melton,5.96
+2025-01-27,Traralgon,7.93
+2025-01-28,Alphington,4.81
+2025-01-28,Box Hill,6.09
+2025-01-28,Brighton,8.29
+2025-01-28,Dandenong,6.6
+2025-01-28,Geelong South,4.88
+2025-01-28,Macleod,4.31
+2025-01-28,Melbourne CBD,7.88
+2025-01-28,Melton,3.91
+2025-01-28,Traralgon,7.53
+2025-01-29,Alphington,5.97
+2025-01-29,Box Hill,5.82
+2025-01-29,Brighton,8.08
+2025-01-29,Dandenong,6.8
+2025-01-29,Geelong South,3.49
+2025-01-29,Macleod,3.98
+2025-01-29,Melbourne CBD,7.52
+2025-01-29,Melton,3.99
+2025-01-29,Traralgon,8.43
+2025-01-30,Alphington,4.62
+2025-01-30,Box Hill,4.67
+2025-01-30,Brighton,4.4
+2025-01-30,Dandenong,4.15
+2025-01-30,Geelong South,2.87
+2025-01-30,Macleod,2.39
+2025-01-30,Melbourne CBD,4.81
+2025-01-30,Melton,3.18
+2025-01-30,Traralgon,5.95
+2025-01-31,Alphington,3.94
+2025-01-31,Box Hill,3.86
+2025-01-31,Brighton,5.68
+2025-01-31,Dandenong,3.19
+2025-01-31,Geelong South,2.04
+2025-01-31,Macleod,1.98
+2025-01-31,Melbourne CBD,5.55
+2025-01-31,Melton,2.39
+2025-01-31,Traralgon,6.39
+2025-02-01,Alphington,11.25
+2025-02-01,Box Hill,7.25
+2025-02-01,Brighton,12.1
+2025-02-01,Dandenong,5.62
+2025-02-01,Geelong South,6.67
+2025-02-01,Macleod,8.38
+2025-02-01,Melbourne CBD,13.41
+2025-02-01,Melton,9.99
+2025-02-01,Traralgon,7.16
+2025-02-02,Alphington,8.91
+2025-02-02,Box Hill,8.85
+2025-02-02,Brighton,11.29
+2025-02-02,Dandenong,10.01
+2025-02-02,Geelong South,9.2
+2025-02-02,Macleod,7.43
+2025-02-02,Melbourne CBD,11.17
+2025-02-02,Melton,9.96
+2025-02-02,Traralgon,9.54
+2025-02-03,Alphington,12.35
+2025-02-03,Box Hill,9.79
+2025-02-03,Brighton,13.89
+2025-02-03,Dandenong,11.94
+2025-02-03,Geelong South,10.56
+2025-02-03,Macleod,8.66
+2025-02-03,Melbourne CBD,13.82
+2025-02-03,Melton,8.89
+2025-02-03,Traralgon,12.16
+2025-02-04,Alphington,11.0
+2025-02-04,Box Hill,10.09
+2025-02-04,Brighton,14.12
+2025-02-04,Dandenong,11.22
+2025-02-04,Geelong South,10.27
+2025-02-04,Macleod,9.87
+2025-02-04,Melbourne CBD,13.22
+2025-02-04,Melton,8.19
+2025-02-04,Traralgon,14.59
+2025-02-05,Alphington,15.23
+2025-02-05,Box Hill,12.48
+2025-02-05,Brighton,18.11
+2025-02-05,Dandenong,13.74
+2025-02-05,Geelong South,16.14
+2025-02-05,Macleod,13.16
+2025-02-05,Melbourne CBD,17.48
+2025-02-05,Melton,13.54
+2025-02-05,Traralgon,15.06
+2025-02-06,Alphington,11.25
+2025-02-06,Box Hill,9.25
+2025-02-06,Brighton,11.81
+2025-02-06,Dandenong,8.3
+2025-02-06,Geelong South,7.64
+2025-02-06,Macleod,9.77
+2025-02-06,Melbourne CBD,12.8
+2025-02-06,Melton,10.89
+2025-02-06,Traralgon,7.72
+2025-02-07,Alphington,11.97
+2025-02-07,Box Hill,10.58
+2025-02-07,Brighton,12.22
+2025-02-07,Dandenong,9.58
+2025-02-07,Geelong South,10.95
+2025-02-07,Macleod,11.89
+2025-02-07,Melbourne CBD,15.55
+2025-02-07,Traralgon,13.12
+2025-02-08,Alphington,13.53
+2025-02-08,Box Hill,13.08
+2025-02-08,Brighton,16.02
+2025-02-08,Dandenong,13.08
+2025-02-08,Geelong South,12.84
+2025-02-08,Macleod,11.61
+2025-02-08,Melbourne CBD,14.43
+2025-02-08,Traralgon,12.87
+2025-02-09,Alphington,1.84
+2025-02-09,Box Hill,2.64
+2025-02-09,Brighton,5.3
+2025-02-09,Dandenong,3.86
+2025-02-09,Geelong South,6.02
+2025-02-09,Macleod,0.72
+2025-02-09,Melbourne CBD,4.89
+2025-02-09,Traralgon,7.08
+2025-02-10,Alphington,4.87
+2025-02-10,Box Hill,3.86
+2025-02-10,Brighton,5.13
+2025-02-10,Dandenong,4.23
+2025-02-10,Geelong South,5.83
+2025-02-10,Macleod,2.92
+2025-02-10,Melbourne CBD,6.04
+2025-02-10,Traralgon,4.48
+2025-02-11,Alphington,3.66
+2025-02-11,Box Hill,4.21
+2025-02-11,Brighton,6.36
+2025-02-11,Dandenong,2.99
+2025-02-11,Geelong South,4.23
+2025-02-11,Macleod,2.6
+2025-02-11,Melbourne CBD,6.57
+2025-02-11,Traralgon,5.51
+2025-02-12,Alphington,7.49
+2025-02-12,Box Hill,3.67
+2025-02-12,Brighton,8.52
+2025-02-12,Dandenong,5.22
+2025-02-12,Geelong South,5.85
+2025-02-12,Macleod,4.07
+2025-02-12,Melbourne CBD,9.4
+2025-02-12,Traralgon,5.14
+2025-02-13,Alphington,7.03
+2025-02-13,Brighton,9.85
+2025-02-13,Dandenong,6.34
+2025-02-13,Geelong South,6.68
+2025-02-13,Macleod,4.03
+2025-02-13,Melbourne CBD,7.7
+2025-02-13,Traralgon,8.25
+2025-02-14,Alphington,6.63
+2025-02-14,Brighton,6.7
+2025-02-14,Dandenong,4.52
+2025-02-14,Geelong South,4.73
+2025-02-14,Macleod,4.36
+2025-02-14,Melbourne CBD,8.3
+2025-02-14,Traralgon,7.42
+2025-02-15,Alphington,3.55
+2025-02-15,Brighton,5.82
+2025-02-15,Dandenong,3.3
+2025-02-15,Geelong South,1.49
+2025-02-15,Macleod,2.53
+2025-02-15,Melbourne CBD,6.77
+2025-02-15,Traralgon,3.87
+2025-02-16,Alphington,4.47
+2025-02-16,Brighton,5.53
+2025-02-16,Dandenong,3.45
+2025-02-16,Geelong South,2.48
+2025-02-16,Macleod,1.85
+2025-02-16,Melbourne CBD,5.98
+2025-02-16,Traralgon,5.09
+2025-02-17,Alphington,5.01
+2025-02-17,Brighton,5.27
+2025-02-17,Dandenong,4.61
+2025-02-17,Geelong South,2.47
+2025-02-17,Macleod,3.44
+2025-02-17,Melbourne CBD,5.59
+2025-02-17,Traralgon,6.78
+2025-02-18,Alphington,4.62
+2025-02-18,Brighton,5.07
+2025-02-18,Dandenong,4.93
+2025-02-18,Geelong South,2.33
+2025-02-18,Macleod,2.17
+2025-02-18,Melbourne CBD,6.75
+2025-02-18,Traralgon,5.22
+2025-02-19,Alphington,2.94
+2025-02-19,Brighton,3.9
+2025-02-19,Dandenong,1.26
+2025-02-19,Geelong South,2.04
+2025-02-19,Macleod,1.41
+2025-02-19,Melbourne CBD,5.19
+2025-02-19,Traralgon,4.15
+2025-02-20,Alphington,5.72
+2025-02-20,Brighton,5.16
+2025-02-20,Dandenong,4.69
+2025-02-20,Geelong South,3.89
+2025-02-20,Macleod,3.55
+2025-02-20,Melbourne CBD,7.08
+2025-02-20,Traralgon,6.59
+2025-02-21,Alphington,6.57
+2025-02-21,Brighton,10.17
+2025-02-21,Dandenong,6.28
+2025-02-21,Geelong South,5.24
+2025-02-21,Macleod,4.69
+2025-02-21,Melbourne CBD,8.92
+2025-02-21,Traralgon,7.37
+2025-02-22,Alphington,7.08
+2025-02-22,Brighton,8.51
+2025-02-22,Dandenong,5.9
+2025-02-22,Geelong South,8.21
+2025-02-22,Macleod,5.28
+2025-02-22,Melbourne CBD,8.82
+2025-02-22,Traralgon,6.72
+2025-02-23,Alphington,6.9
+2025-02-23,Brighton,6.9
+2025-02-23,Dandenong,7.73
+2025-02-23,Geelong South,6.27
+2025-02-23,Macleod,3.26
+2025-02-23,Melbourne CBD,9.05
+2025-02-23,Traralgon,8.02
+2025-02-24,Alphington,3.67
+2025-02-24,Brighton,5.26
+2025-02-24,Dandenong,4.41
+2025-02-24,Geelong South,3.75
+2025-02-24,Macleod,2.93
+2025-02-24,Melbourne CBD,6.43
+2025-02-24,Traralgon,5.4
+2025-02-25,Alphington,7.01
+2025-02-25,Brighton,7.79
+2025-02-25,Dandenong,6.95
+2025-02-25,Geelong South,3.33
+2025-02-25,Macleod,6.09
+2025-02-25,Melbourne CBD,9.1
+2025-02-25,Traralgon,6.92
+2025-02-26,Alphington,3.95
+2025-02-26,Brighton,8.74
+2025-02-26,Dandenong,6.84
+2025-02-26,Geelong South,5.85
+2025-02-26,Macleod,4.32
+2025-02-26,Melbourne CBD,8.35
+2025-02-26,Traralgon,8.31
+2025-02-27,Alphington,9.39
+2025-02-27,Brighton,6.97
+2025-02-27,Dandenong,5.64
+2025-02-27,Geelong South,2.54
+2025-02-27,Macleod,5.64
+2025-02-27,Melbourne CBD,9.77
+2025-02-27,Traralgon,10.22
+2025-02-28,Alphington,4.41
+2025-02-28,Brighton,5.76
+2025-02-28,Dandenong,3.76
+2025-02-28,Geelong South,3.0
+2025-02-28,Macleod,2.45
+2025-02-28,Melbourne CBD,7.31
+2025-02-28,Traralgon,6.08
+2025-03-01,Alphington,7.37
+2025-03-01,Brighton,8.52
+2025-03-01,Dandenong,5.75
+2025-03-01,Geelong South,5.1
+2025-03-01,Macleod,6.13
+2025-03-01,Melbourne CBD,8.8
+2025-03-01,Traralgon,8.12
+2025-03-02,Alphington,4.56
+2025-03-02,Brighton,6.14
+2025-03-02,Dandenong,5.32
+2025-03-02,Geelong South,4.31
+2025-03-02,Macleod,3.78
+2025-03-02,Melbourne CBD,7.05
+2025-03-03,Alphington,6.97
+2025-03-03,Brighton,5.25
+2025-03-03,Dandenong,6.82
+2025-03-03,Geelong South,3.51
+2025-03-03,Macleod,3.74
+2025-03-03,Melbourne CBD,8.24
+2025-03-03,Traralgon,8.16
+2025-03-04,Alphington,15.33
+2025-03-04,Brighton,11.24
+2025-03-04,Dandenong,10.59
+2025-03-04,Geelong South,8.89
+2025-03-04,Macleod,7.28
+2025-03-04,Melbourne CBD,9.82
+2025-03-04,Traralgon,8.15
+2025-03-05,Brighton,12.71
+2025-03-05,Dandenong,10.17
+2025-03-05,Geelong South,10.85
+2025-03-05,Macleod,8.46
+2025-03-05,Melbourne CBD,14.59
+2025-03-05,Traralgon,9.75
+2025-03-06,Alphington,15.35
+2025-03-06,Brighton,12.54
+2025-03-06,Dandenong,10.21
+2025-03-06,Geelong South,8.5
+2025-03-06,Macleod,9.93
+2025-03-06,Melbourne CBD,14.85
+2025-03-06,Traralgon,11.72
+2025-03-07,Alphington,8.45
+2025-03-07,Brighton,8.31
+2025-03-07,Dandenong,6.26
+2025-03-07,Geelong South,6.39
+2025-03-07,Macleod,7.32
+2025-03-07,Melbourne CBD,10.51
+2025-03-07,Traralgon,4.86
+2025-03-08,Alphington,5.14
+2025-03-08,Brighton,4.79
+2025-03-08,Dandenong,4.26
+2025-03-08,Geelong South,4.21
+2025-03-08,Macleod,3.17
+2025-03-08,Melbourne CBD,7.67
+2025-03-08,Traralgon,4.12
+2025-03-09,Alphington,5.69
+2025-03-09,Brighton,5.62
+2025-03-09,Dandenong,3.78
+2025-03-09,Geelong South,4.09
+2025-03-09,Macleod,2.1
+2025-03-09,Melbourne CBD,5.59
+2025-03-09,Traralgon,6.86
+2025-03-10,Alphington,4.7
+2025-03-10,Brighton,4.82
+2025-03-10,Dandenong,2.88
+2025-03-10,Geelong South,2.95
+2025-03-10,Macleod,1.79
+2025-03-10,Melbourne CBD,4.79
+2025-03-10,Traralgon,6.67
+2025-03-11,Alphington,9.14
+2025-03-11,Brighton,7.82
+2025-03-11,Dandenong,6.49
+2025-03-11,Geelong South,8.81
+2025-03-11,Macleod,4.93
+2025-03-11,Melbourne CBD,9.85
+2025-03-11,Traralgon,10.95
+2025-03-12,Alphington,8.29
+2025-03-12,Brighton,8.32
+2025-03-12,Dandenong,7.84
+2025-03-12,Geelong South,6.0
+2025-03-12,Macleod,4.69
+2025-03-12,Melbourne CBD,9.01
+2025-03-12,Traralgon,9.53
+2025-03-13,Alphington,6.01
+2025-03-13,Brighton,4.91
+2025-03-13,Dandenong,5.24
+2025-03-13,Geelong South,3.17
+2025-03-13,Macleod,3.97
+2025-03-13,Melbourne CBD,7.89
+2025-03-13,Traralgon,5.74
+2025-03-14,Alphington,6.48
+2025-03-14,Brighton,5.92
+2025-03-14,Dandenong,5.4
+2025-03-14,Geelong South,4.23
+2025-03-14,Macleod,3.99
+2025-03-14,Melbourne CBD,9.55
+2025-03-14,Traralgon,4.62
+2025-03-15,Alphington,7.06
+2025-03-15,Brighton,9.68
+2025-03-15,Dandenong,7.34
+2025-03-15,Geelong South,9.45
+2025-03-15,Macleod,4.99
+2025-03-15,Melbourne CBD,12.8
+2025-03-15,Traralgon,7.21
+2025-03-16,Alphington,6.03
+2025-03-16,Brighton,5.3
+2025-03-16,Dandenong,4.36
+2025-03-16,Geelong South,5.38
+2025-03-16,Macleod,3.86
+2025-03-16,Melbourne CBD,8.21
+2025-03-16,Traralgon,6.15
+2025-03-17,Alphington,4.08
+2025-03-17,Brighton,5.02
+2025-03-17,Dandenong,4.05
+2025-03-17,Geelong South,2.98
+2025-03-17,Macleod,2.77
+2025-03-17,Melbourne CBD,6.65
+2025-03-17,Traralgon,3.85
+2025-03-18,Alphington,5.24
+2025-03-18,Brighton,5.92
+2025-03-18,Dandenong,4.84
+2025-03-18,Geelong South,3.32
+2025-03-18,Macleod,3.35
+2025-03-18,Melbourne CBD,6.38
+2025-03-18,Traralgon,6.12
+2025-03-19,Alphington,8.15
+2025-03-19,Brighton,9.96
+2025-03-19,Dandenong,7.94
+2025-03-19,Geelong South,7.21
+2025-03-19,Macleod,4.48
+2025-03-19,Melbourne CBD,10.44
+2025-03-19,Traralgon,8.15
+2025-03-20,Alphington,5.94
+2025-03-20,Brighton,5.39
+2025-03-20,Dandenong,5.06
+2025-03-20,Geelong South,5.52
+2025-03-20,Macleod,2.03
+2025-03-20,Melbourne CBD,6.38
+2025-03-20,Traralgon,6.56
+2025-03-21,Alphington,4.07
+2025-03-21,Brighton,4.87
+2025-03-21,Dandenong,4.7
+2025-03-21,Geelong South,2.61
+2025-03-21,Macleod,3.1
+2025-03-21,Melbourne CBD,5.22
+2025-03-21,Melton,3.71
+2025-03-21,Traralgon,4.04
+2025-03-22,Alphington,5.15
+2025-03-22,Brighton,5.93
+2025-03-22,Dandenong,4.19
+2025-03-22,Geelong South,2.91
+2025-03-22,Macleod,3.71
+2025-03-22,Melbourne CBD,6.79
+2025-03-22,Melton,3.0
+2025-03-22,Traralgon,5.3
+2025-03-23,Alphington,5.12
+2025-03-23,Brighton,6.68
+2025-03-23,Dandenong,5.27
+2025-03-23,Geelong South,2.36
+2025-03-23,Macleod,4.87
+2025-03-23,Melbourne CBD,6.6
+2025-03-23,Melton,1.93
+2025-03-23,Traralgon,5.24
+2025-03-24,Alphington,4.84
+2025-03-24,Brighton,3.86
+2025-03-24,Dandenong,5.08
+2025-03-24,Geelong South,3.68
+2025-03-24,Macleod,4.23
+2025-03-24,Melbourne CBD,6.43
+2025-03-24,Melton,2.68
+2025-03-24,Traralgon,6.95
+2025-03-25,Alphington,5.83
+2025-03-25,Brighton,5.02
+2025-03-25,Dandenong,6.72
+2025-03-25,Geelong South,2.7
+2025-03-25,Macleod,4.07
+2025-03-25,Melbourne CBD,7.13
+2025-03-25,Melton,4.34
+2025-03-25,Traralgon,5.52
+2025-03-26,Alphington,4.58
+2025-03-26,Brighton,5.19
+2025-03-26,Dandenong,3.56
+2025-03-26,Geelong South,2.27
+2025-03-26,Macleod,2.91
+2025-03-26,Melbourne CBD,6.24
+2025-03-26,Melton,2.4
+2025-03-26,Traralgon,10.05
+2025-03-27,Alphington,5.71
+2025-03-27,Brighton,5.52
+2025-03-27,Dandenong,6.29
+2025-03-27,Geelong South,3.06
+2025-03-27,Macleod,3.7
+2025-03-27,Melbourne CBD,7.06
+2025-03-27,Melton,2.08
+2025-03-27,Traralgon,7.07
+2025-03-28,Alphington,8.5
+2025-03-28,Brighton,14.23
+2025-03-28,Dandenong,15.25
+2025-03-28,Geelong South,14.17
+2025-03-28,Macleod,6.09
+2025-03-28,Melbourne CBD,11.36
+2025-03-28,Melton,8.96
+2025-03-28,Traralgon,10.43
+2025-03-29,Alphington,9.03
+2025-03-29,Brighton,13.14
+2025-03-29,Dandenong,12.6
+2025-03-29,Geelong South,11.12
+2025-03-29,Macleod,8.43
+2025-03-29,Melbourne CBD,14.0
+2025-03-29,Melton,9.42
+2025-03-29,Traralgon,15.88
+2025-03-30,Alphington,5.03
+2025-03-30,Brighton,5.56
+2025-03-30,Dandenong,5.03
+2025-03-30,Geelong South,7.77
+2025-03-30,Macleod,3.79
+2025-03-30,Melbourne CBD,6.75
+2025-03-30,Melton,4.78
+2025-03-30,Traralgon,7.87
+2025-03-31,Alphington,4.36
+2025-03-31,Brighton,5.66
+2025-03-31,Dandenong,4.65
+2025-03-31,Geelong South,3.4
+2025-03-31,Macleod,3.04
+2025-03-31,Melbourne CBD,5.67
+2025-03-31,Melton,2.93
+2025-03-31,Traralgon,6.09
+2025-04-01,Alphington,5.95
+2025-04-01,Brighton,3.78
+2025-04-01,Dandenong,4.27
+2025-04-01,Geelong South,2.65
+2025-04-01,Macleod,2.02
+2025-04-01,Melbourne CBD,8.2
+2025-04-01,Melton,1.74
+2025-04-01,Traralgon,3.56
+2025-04-02,Alphington,16.95
+2025-04-02,Brighton,15.99
+2025-04-02,Dandenong,14.56
+2025-04-02,Geelong South,12.47
+2025-04-02,Macleod,13.46
+2025-04-02,Melbourne CBD,15.0
+2025-04-02,Melton,6.84
+2025-04-02,Traralgon,6.0
+2025-04-03,Alphington,10.79
+2025-04-03,Brighton,12.48
+2025-04-03,Dandenong,19.84
+2025-04-03,Geelong South,5.4
+2025-04-03,Macleod,9.18
+2025-04-03,Melbourne CBD,13.96
+2025-04-03,Melton,18.35
+2025-04-03,Traralgon,7.53
+2025-04-04,Alphington,4.15
+2025-04-04,Brighton,4.78
+2025-04-04,Dandenong,4.95
+2025-04-04,Geelong South,1.67
+2025-04-04,Macleod,2.56
+2025-04-04,Melbourne CBD,7.61
+2025-04-04,Melton,1.67
+2025-04-04,Traralgon,5.21
+2025-04-05,Alphington,5.6
+2025-04-05,Brighton,5.89
+2025-04-05,Dandenong,6.01
+2025-04-05,Geelong South,3.86
+2025-04-05,Macleod,3.97
+2025-04-05,Melbourne CBD,8.08
+2025-04-05,Melton,3.24
+2025-04-05,Traralgon,6.99
+2025-04-06,Alphington,4.32
+2025-04-06,Brighton,5.64
+2025-04-06,Dandenong,5.07
+2025-04-06,Geelong South,4.95
+2025-04-06,Macleod,1.77
+2025-04-06,Melbourne CBD,5.74
+2025-04-06,Melton,3.22
+2025-04-06,Traralgon,6.03
+2025-04-07,Alphington,3.79
+2025-04-07,Brighton,6.39
+2025-04-07,Dandenong,5.61
+2025-04-07,Geelong South,3.98
+2025-04-07,Macleod,3.3
+2025-04-07,Melbourne CBD,6.33
+2025-04-07,Melton,2.34
+2025-04-07,Traralgon,5.84
+2025-04-08,Alphington,3.62
+2025-04-08,Brighton,4.13
+2025-04-08,Dandenong,3.08
+2025-04-08,Geelong South,1.81
+2025-04-08,Macleod,2.58
+2025-04-08,Melbourne CBD,5.56
+2025-04-08,Melton,0.19
+2025-04-08,Traralgon,4.33
+2025-04-09,Alphington,8.33
+2025-04-09,Brighton,7.41
+2025-04-09,Dandenong,6.73
+2025-04-09,Geelong South,2.62
+2025-04-09,Macleod,6.1
+2025-04-09,Melbourne CBD,9.8
+2025-04-09,Melton,2.51
+2025-04-09,Traralgon,10.08
+2025-04-10,Alphington,10.13
+2025-04-10,Brighton,10.8
+2025-04-10,Dandenong,7.36
+2025-04-10,Geelong South,4.36
+2025-04-10,Macleod,5.95
+2025-04-10,Melbourne CBD,11.72
+2025-04-10,Melton,10.17
+2025-04-10,Traralgon,12.27
+2025-04-11,Alphington,7.07
+2025-04-11,Brighton,6.22
+2025-04-11,Dandenong,6.58
+2025-04-11,Geelong South,4.54
+2025-04-11,Macleod,4.85
+2025-04-11,Melbourne CBD,9.49
+2025-04-11,Melton,8.14
+2025-04-11,Traralgon,10.48
+2025-04-12,Alphington,12.42
+2025-04-12,Brighton,11.19
+2025-04-12,Dandenong,9.58
+2025-04-12,Geelong South,9.27
+2025-04-12,Macleod,7.63
+2025-04-12,Melbourne CBD,15.49
+2025-04-12,Melton,9.11
+2025-04-12,Traralgon,11.03
+2025-04-13,Alphington,10.88
+2025-04-13,Brighton,10.74
+2025-04-13,Dandenong,10.49
+2025-04-13,Geelong South,9.72
+2025-04-13,Macleod,6.42
+2025-04-13,Melbourne CBD,10.15
+2025-04-13,Melton,15.65
+2025-04-13,Traralgon,15.73
+2025-04-14,Alphington,5.57
+2025-04-14,Brighton,5.27
+2025-04-14,Dandenong,5.39
+2025-04-14,Geelong South,3.88
+2025-04-14,Macleod,4.11
+2025-04-14,Melbourne CBD,8.43
+2025-04-14,Melton,3.6
+2025-04-14,Traralgon,7.73
+2025-04-15,Alphington,7.71
+2025-04-15,Brighton,6.29
+2025-04-15,Dandenong,6.02
+2025-04-15,Geelong South,5.52
+2025-04-15,Macleod,-0.87
+2025-04-15,Melbourne CBD,9.54
+2025-04-15,Melton,6.1
+2025-04-15,Traralgon,5.13
+2025-04-16,Alphington,9.41
+2025-04-16,Brighton,8.52
+2025-04-16,Dandenong,8.32
+2025-04-16,Geelong South,7.83
+2025-04-16,Macleod,-0.92
+2025-04-16,Melbourne CBD,10.25
+2025-04-16,Melton,7.98
+2025-04-16,Traralgon,5.09
+2025-04-17,Alphington,12.42
+2025-04-17,Brighton,12.62
+2025-04-17,Dandenong,11.87
+2025-04-17,Geelong South,8.97
+2025-04-17,Macleod,4.77
+2025-04-17,Melbourne CBD,14.26
+2025-04-17,Melton,8.58
+2025-04-17,Traralgon,6.7
+2025-04-18,Alphington,11.05
+2025-04-18,Brighton,10.85
+2025-04-18,Dandenong,13.13
+2025-04-18,Geelong South,8.34
+2025-04-18,Macleod,8.19
+2025-04-18,Melbourne CBD,11.92
+2025-04-18,Melton,8.79
+2025-04-18,Traralgon,17.37
+2025-04-19,Alphington,9.34
+2025-04-19,Brighton,9.06
+2025-04-19,Dandenong,8.14
+2025-04-19,Geelong South,8.57
+2025-04-19,Macleod,5.84
+2025-04-19,Melbourne CBD,10.91
+2025-04-19,Melton,6.68
+2025-04-19,Traralgon,16.07
+2025-04-20,Alphington,4.04
+2025-04-20,Brighton,5.85
+2025-04-20,Dandenong,6.04
+2025-04-20,Geelong South,3.11
+2025-04-20,Macleod,0.99
+2025-04-20,Melbourne CBD,5.7
+2025-04-20,Melton,3.25
+2025-04-20,Traralgon,33.06
+2025-04-21,Alphington,3.06
+2025-04-21,Brighton,3.93
+2025-04-21,Dandenong,4.07
+2025-04-21,Geelong South,3.95
+2025-04-21,Macleod,1.55
+2025-04-21,Melbourne CBD,5.57
+2025-04-21,Melton,2.5
+2025-04-21,Traralgon,7.35
+2025-04-22,Alphington,3.57
+2025-04-22,Brighton,3.87
+2025-04-22,Dandenong,4.51
+2025-04-22,Geelong South,2.66
+2025-04-22,Macleod,1.33
+2025-04-22,Melbourne CBD,5.37
+2025-04-22,Melton,0.49
+2025-04-22,Traralgon,5.14
+2025-04-23,Alphington,4.7
+2025-04-23,Brighton,5.07
+2025-04-23,Dandenong,3.87
+2025-04-23,Geelong South,3.91
+2025-04-23,Macleod,2.09
+2025-04-23,Melbourne CBD,6.46
+2025-04-23,Melton,2.72
+2025-04-23,Traralgon,3.47
+2025-04-24,Alphington,8.69
+2025-04-24,Brighton,8.35
+2025-04-24,Dandenong,7.37
+2025-04-24,Geelong South,5.1
+2025-04-24,Macleod,4.06
+2025-04-24,Melbourne CBD,7.94
+2025-04-24,Melton,3.69
+2025-04-24,Traralgon,6.76
+2025-04-25,Alphington,7.52
+2025-04-25,Brighton,8.38
+2025-04-25,Dandenong,8.35
+2025-04-25,Geelong South,6.73
+2025-04-25,Macleod,5.04
+2025-04-25,Melbourne CBD,8.59
+2025-04-25,Melton,5.86
+2025-04-25,Traralgon,11.15
+2025-04-26,Alphington,4.78
+2025-04-26,Brighton,4.73
+2025-04-26,Dandenong,4.01
+2025-04-26,Geelong South,3.06
+2025-04-26,Macleod,2.8
+2025-04-26,Melbourne CBD,5.77
+2025-04-26,Melton,1.72
+2025-04-26,Traralgon,7.13
+2025-04-27,Alphington,3.24
+2025-04-27,Brighton,2.72
+2025-04-27,Dandenong,2.06
+2025-04-27,Geelong South,2.2
+2025-04-27,Macleod,0.1
+2025-04-27,Melbourne CBD,4.21
+2025-04-27,Melton,0.62
+2025-04-27,Traralgon,3.76
+2025-04-28,Alphington,4.06
+2025-04-28,Brighton,3.55
+2025-04-28,Dandenong,4.55
+2025-04-28,Geelong South,1.33
+2025-04-28,Macleod,1.24
+2025-04-28,Melbourne CBD,4.98
+2025-04-28,Melton,1.25
+2025-04-28,Traralgon,6.18
+2025-04-29,Alphington,3.18
+2025-04-29,Brighton,4.07
+2025-04-29,Dandenong,4.52
+2025-04-29,Geelong South,1.68
+2025-04-29,Macleod,0.74
+2025-04-29,Melbourne CBD,4.32
+2025-04-29,Melton,1.08
+2025-04-29,Traralgon,4.04
+2025-04-30,Alphington,4.27
+2025-04-30,Brighton,4.32
+2025-04-30,Dandenong,4.62
+2025-04-30,Geelong South,1.48
+2025-04-30,Macleod,1.52
+2025-04-30,Melbourne CBD,4.6
+2025-04-30,Melton,2.13
+2025-04-30,Traralgon,5.24
+2025-05-01,Alphington,4.98
+2025-05-01,Brighton,5.94
+2025-05-01,Dandenong,5.85
+2025-05-01,Geelong South,4.59
+2025-05-01,Macleod,2.0
+2025-05-01,Melbourne CBD,5.23
+2025-05-01,Melton,2.18
+2025-05-01,Traralgon,5.11
+2025-05-02,Alphington,8.49
+2025-05-02,Brighton,10.42
+2025-05-02,Dandenong,8.71
+2025-05-02,Geelong South,7.01
+2025-05-02,Macleod,5.52
+2025-05-02,Melbourne CBD,10.27
+2025-05-02,Melton,3.85
+2025-05-02,Traralgon,6.66
+2025-05-03,Alphington,15.21
+2025-05-03,Brighton,14.06
+2025-05-03,Dandenong,12.97
+2025-05-03,Geelong South,6.67
+2025-05-03,Macleod,6.86
+2025-05-03,Melbourne CBD,11.94
+2025-05-03,Melton,6.75
+2025-05-03,Traralgon,19.57
+2025-05-04,Alphington,11.95
+2025-05-04,Brighton,10.56
+2025-05-04,Dandenong,9.53
+2025-05-04,Geelong South,6.64
+2025-05-04,Macleod,5.04
+2025-05-04,Melbourne CBD,9.93
+2025-05-04,Melton,5.47
+2025-05-04,Traralgon,21.95
+2025-05-05,Alphington,4.75
+2025-05-05,Brighton,5.57
+2025-05-05,Dandenong,4.72
+2025-05-05,Geelong South,4.53
+2025-05-05,Macleod,2.11
+2025-05-05,Melbourne CBD,4.42
+2025-05-05,Melton,3.89
+2025-05-05,Traralgon,20.62
+2025-05-06,Alphington,3.69
+2025-05-06,Brighton,4.01
+2025-05-06,Dandenong,2.8
+2025-05-06,Geelong South,2.6
+2025-05-06,Macleod,-0.02
+2025-05-06,Melbourne CBD,4.54
+2025-05-06,Melton,1.82
+2025-05-06,Traralgon,8.01
+2025-05-07,Alphington,4.89
+2025-05-07,Brighton,5.84
+2025-05-07,Dandenong,4.87
+2025-05-07,Geelong South,3.4
+2025-05-07,Macleod,1.76
+2025-05-07,Melbourne CBD,6.43
+2025-05-07,Melton,1.78
+2025-05-07,Traralgon,5.25
+2025-05-08,Alphington,7.0
+2025-05-08,Brighton,7.14
+2025-05-08,Dandenong,5.87
+2025-05-08,Geelong South,4.76
+2025-05-08,Macleod,4.47
+2025-05-08,Melbourne CBD,8.21
+2025-05-08,Melton,3.89
+2025-05-08,Traralgon,13.48
+2025-05-09,Alphington,8.19
+2025-05-09,Brighton,8.6
+2025-05-09,Dandenong,8.42
+2025-05-09,Geelong South,5.23
+2025-05-09,Macleod,4.32
+2025-05-09,Melbourne CBD,7.82
+2025-05-09,Melton,5.74
+2025-05-09,Traralgon,8.8
+2025-05-10,Alphington,17.03
+2025-05-10,Brighton,13.78
+2025-05-10,Dandenong,12.38
+2025-05-10,Geelong South,8.17
+2025-05-10,Macleod,8.25
+2025-05-10,Melbourne CBD,15.6
+2025-05-10,Melton,7.2
+2025-05-10,Traralgon,11.08
+2025-05-11,Alphington,15.94
+2025-05-11,Brighton,18.42
+2025-05-11,Dandenong,11.88
+2025-05-11,Geelong South,10.39
+2025-05-11,Macleod,15.59
+2025-05-11,Melbourne CBD,18.35
+2025-05-11,Melton,9.4
+2025-05-11,Traralgon,11.01
+2025-05-12,Alphington,13.19
+2025-05-12,Brighton,13.62
+2025-05-12,Dandenong,10.68
+2025-05-12,Geelong South,9.36
+2025-05-12,Macleod,11.82
+2025-05-12,Melbourne CBD,13.06
+2025-05-12,Melton,6.67
+2025-05-12,Traralgon,10.91
+2025-05-13,Alphington,15.05
+2025-05-13,Brighton,17.7
+2025-05-13,Dandenong,17.74
+2025-05-13,Geelong South,8.94
+2025-05-13,Macleod,9.14
+2025-05-13,Melbourne CBD,17.07
+2025-05-13,Melton,9.21
+2025-05-13,Traralgon,9.86
+2025-05-14,Alphington,25.92
+2025-05-14,Brighton,25.5
+2025-05-14,Dandenong,25.15
+2025-05-14,Geelong South,9.13
+2025-05-14,Macleod,19.33
+2025-05-14,Melbourne CBD,24.26
+2025-05-14,Melton,11.35
+2025-05-14,Traralgon,11.23
+2025-05-15,Alphington,11.24
+2025-05-15,Brighton,11.83
+2025-05-15,Dandenong,10.53
+2025-05-15,Geelong South,3.62
+2025-05-15,Macleod,5.53
+2025-05-15,Melbourne CBD,6.47
+2025-05-15,Melton,5.4
+2025-05-15,Traralgon,6.97
+2025-05-16,Alphington,9.72
+2025-05-16,Brighton,9.59
+2025-05-16,Dandenong,9.01
+2025-05-16,Geelong South,2.6
+2025-05-16,Macleod,5.16
+2025-05-16,Melbourne CBD,3.52
+2025-05-16,Melton,1.89
+2025-05-16,Traralgon,10.38
+2025-05-17,Alphington,4.6
+2025-05-17,Brighton,5.11
+2025-05-17,Dandenong,4.29
+2025-05-17,Geelong South,2.33
+2025-05-17,Macleod,1.63
+2025-05-17,Melton,1.91
+2025-05-17,Traralgon,8.78
+2025-05-18,Alphington,6.69
+2025-05-18,Brighton,3.78
+2025-05-18,Dandenong,4.0
+2025-05-18,Geelong South,1.58
+2025-05-18,Macleod,1.8
+2025-05-18,Melton,2.27
+2025-05-18,Traralgon,9.3
+2025-05-19,Alphington,10.55
+2025-05-19,Brighton,8.39
+2025-05-19,Dandenong,7.71
+2025-05-19,Geelong South,4.05
+2025-05-19,Macleod,3.74
+2025-05-19,Melton,4.36
+2025-05-19,Traralgon,10.58
+2025-05-20,Alphington,12.37
+2025-05-20,Box Hill,-0.96
+2025-05-20,Brighton,12.21
+2025-05-20,Dandenong,10.0
+2025-05-20,Geelong South,8.57
+2025-05-20,Macleod,5.72
+2025-05-20,Melton,5.94
+2025-05-20,Traralgon,11.42
+2025-05-21,Alphington,18.22
+2025-05-21,Box Hill,0.53
+2025-05-21,Brighton,13.74
+2025-05-21,Dandenong,13.6
+2025-05-21,Geelong South,11.83
+2025-05-21,Macleod,10.07
+2025-05-21,Melbourne CBD,15.78
+2025-05-21,Melton,8.52
+2025-05-21,Traralgon,16.52
+2025-05-22,Alphington,15.84
+2025-05-22,Box Hill,0.59
+2025-05-22,Brighton,15.32
+2025-05-22,Dandenong,13.9
+2025-05-22,Geelong South,8.93
+2025-05-22,Macleod,9.6
+2025-05-22,Melbourne CBD,15.64
+2025-05-22,Melton,6.6
+2025-05-22,Traralgon,7.46
+2025-05-23,Alphington,17.79
+2025-05-23,Box Hill,7.88
+2025-05-23,Brighton,17.34
+2025-05-23,Dandenong,13.95
+2025-05-23,Geelong South,7.36
+2025-05-23,Macleod,10.01
+2025-05-23,Melbourne CBD,17.77
+2025-05-23,Melton,9.98
+2025-05-23,Traralgon,6.11
+2025-05-24,Alphington,4.95
+2025-05-24,Box Hill,2.21
+2025-05-24,Brighton,4.29
+2025-05-24,Dandenong,4.18
+2025-05-24,Geelong South,4.7
+2025-05-24,Macleod,0.73
+2025-05-24,Melbourne CBD,4.1
+2025-05-24,Melton,2.83
+2025-05-24,Traralgon,9.35
+2025-05-25,Alphington,3.36
+2025-05-25,Box Hill,0.75
+2025-05-25,Brighton,3.02
+2025-05-25,Dandenong,3.17
+2025-05-25,Geelong South,2.99
+2025-05-25,Macleod,-0.58
+2025-05-25,Melbourne CBD,3.68
+2025-05-25,Melton,1.75
+2025-05-25,Traralgon,5.02
+2025-05-26,Alphington,5.02
+2025-05-26,Box Hill,3.71
+2025-05-26,Brighton,4.3
+2025-05-26,Dandenong,3.76
+2025-05-26,Geelong South,3.14
+2025-05-26,Macleod,2.79
+2025-05-26,Melbourne CBD,4.9
+2025-05-26,Melton,3.41
+2025-05-26,Traralgon,5.41
+2025-05-27,Alphington,3.54
+2025-05-27,Box Hill,2.36
+2025-05-27,Brighton,5.75
+2025-05-27,Dandenong,4.5
+2025-05-27,Geelong South,3.18
+2025-05-27,Macleod,1.63
+2025-05-27,Melbourne CBD,5.37
+2025-05-27,Melton,2.13
+2025-05-27,Traralgon,7.44
+2025-05-28,Alphington,4.32
+2025-05-28,Box Hill,1.93
+2025-05-28,Brighton,5.32
+2025-05-28,Dandenong,3.99
+2025-05-28,Geelong South,2.96
+2025-05-28,Macleod,2.03
+2025-05-28,Melbourne CBD,6.87
+2025-05-28,Melton,2.15
+2025-05-28,Traralgon,4.55
+2025-05-29,Alphington,4.6
+2025-05-29,Box Hill,4.79
+2025-05-29,Brighton,9.54
+2025-05-29,Dandenong,7.84
+2025-05-29,Geelong South,6.41
+2025-05-29,Macleod,4.2
+2025-05-29,Melbourne CBD,10.77
+2025-05-29,Melton,5.33
+2025-05-29,Traralgon,6.29
+2025-05-30,Box Hill,4.87
+2025-05-30,Brighton,7.44
+2025-05-30,Dandenong,4.47
+2025-05-30,Geelong South,2.38
+2025-05-30,Macleod,4.56
+2025-05-30,Melbourne CBD,7.98
+2025-05-30,Melton,6.69
+2025-05-30,Traralgon,6.37
+2025-05-31,Box Hill,2.84
+2025-05-31,Brighton,9.24
+2025-05-31,Dandenong,4.06
+2025-05-31,Macleod,3.34
+2025-05-31,Melbourne CBD,7.0
+2025-05-31,Melton,5.62
+2025-05-31,Traralgon,7.1
+2025-06-01,Box Hill,10.35
+2025-06-01,Brighton,15.69
+2025-06-01,Dandenong,14.14
+2025-06-01,Macleod,9.98
+2025-06-01,Melbourne CBD,13.98
+2025-06-01,Melton,9.3
+2025-06-01,Traralgon,14.94
+2025-06-02,Alphington,10.6
+2025-06-02,Box Hill,7.04
+2025-06-02,Brighton,14.41
+2025-06-02,Dandenong,8.2
+2025-06-02,Macleod,6.98
+2025-06-02,Melbourne CBD,10.61
+2025-06-02,Melton,6.64
+2025-06-02,Traralgon,13.93
+2025-06-03,Alphington,7.27
+2025-06-03,Box Hill,4.68
+2025-06-03,Brighton,7.08
+2025-06-03,Dandenong,6.01
+2025-06-03,Geelong South,2.54
+2025-06-03,Macleod,3.32
+2025-06-03,Melbourne CBD,6.79
+2025-06-03,Melton,3.04
+2025-06-03,Traralgon,10.81
+2025-06-04,Alphington,8.49
+2025-06-04,Box Hill,4.17
+2025-06-04,Brighton,5.69
+2025-06-04,Dandenong,7.52
+2025-06-04,Geelong South,3.47
+2025-06-04,Macleod,2.19
+2025-06-04,Melbourne CBD,6.7
+2025-06-04,Melton,2.96
+2025-06-04,Traralgon,6.96
+2025-06-05,Alphington,12.07
+2025-06-05,Box Hill,6.22
+2025-06-05,Brighton,11.16
+2025-06-05,Dandenong,7.65
+2025-06-05,Geelong South,2.95
+2025-06-05,Macleod,4.85
+2025-06-05,Melbourne CBD,8.16
+2025-06-05,Melton,2.69
+2025-06-05,Traralgon,7.07
+2025-06-06,Alphington,4.68
+2025-06-06,Box Hill,1.86
+2025-06-06,Brighton,5.24
+2025-06-06,Dandenong,2.7
+2025-06-06,Geelong South,2.18
+2025-06-06,Macleod,1.37
+2025-06-06,Melbourne CBD,4.77
+2025-06-06,Melton,2.45
+2025-06-06,Traralgon,12.0
+2025-06-07,Alphington,4.45
+2025-06-07,Box Hill,0.72
+2025-06-07,Brighton,4.58
+2025-06-07,Dandenong,2.26
+2025-06-07,Geelong South,2.76
+2025-06-07,Macleod,0.65
+2025-06-07,Melbourne CBD,3.53
+2025-06-07,Melton,1.1
+2025-06-07,Traralgon,5.43
+2025-06-08,Alphington,6.75
+2025-06-08,Box Hill,4.4
+2025-06-08,Brighton,6.31
+2025-06-08,Dandenong,4.74
+2025-06-08,Geelong South,2.26
+2025-06-08,Macleod,2.56
+2025-06-08,Melbourne CBD,5.51
+2025-06-08,Melton,1.34
+2025-06-08,Traralgon,10.3
+2025-06-09,Alphington,5.42
+2025-06-09,Box Hill,4.2
+2025-06-09,Brighton,5.37
+2025-06-09,Dandenong,3.73
+2025-06-09,Geelong South,3.16
+2025-06-09,Macleod,2.57
+2025-06-09,Melbourne CBD,5.15
+2025-06-09,Melton,2.74
+2025-06-09,Traralgon,7.86
+2025-06-10,Alphington,7.59
+2025-06-10,Box Hill,4.59
+2025-06-10,Brighton,5.02
+2025-06-10,Dandenong,6.0
+2025-06-10,Geelong South,2.7
+2025-06-10,Macleod,2.09
+2025-06-10,Melbourne CBD,6.33
+2025-06-10,Melton,0.86
+2025-06-10,Traralgon,6.76
+2025-06-11,Alphington,9.8
+2025-06-11,Box Hill,4.5
+2025-06-11,Brighton,8.82
+2025-06-11,Dandenong,6.9
+2025-06-11,Geelong South,3.94
+2025-06-11,Macleod,3.64
+2025-06-11,Melbourne CBD,8.37
+2025-06-11,Melton,3.14
+2025-06-11,Traralgon,9.98
+2025-06-12,Alphington,12.41
+2025-06-12,Box Hill,4.58
+2025-06-12,Brighton,3.16
+2025-06-12,Dandenong,6.86
+2025-06-12,Geelong South,7.47
+2025-06-12,Macleod,4.25
+2025-06-12,Melbourne CBD,11.68
+2025-06-12,Melton,6.27
+2025-06-12,Traralgon,13.43
+2025-06-13,Alphington,17.95
+2025-06-13,Box Hill,11.81
+2025-06-13,Brighton,20.9
+2025-06-13,Dandenong,14.24
+2025-06-13,Geelong South,11.32
+2025-06-13,Macleod,9.34
+2025-06-13,Melbourne CBD,18.85
+2025-06-13,Melton,8.36
+2025-06-13,Traralgon,12.12
+2025-06-14,Alphington,14.85
+2025-06-14,Box Hill,7.47
+2025-06-14,Brighton,13.51
+2025-06-14,Dandenong,8.2
+2025-06-14,Geelong South,9.17
+2025-06-14,Macleod,7.12
+2025-06-14,Melbourne CBD,13.7
+2025-06-14,Melton,9.61
+2025-06-14,Traralgon,14.06
+2025-06-15,Alphington,3.39
+2025-06-15,Box Hill,0.34
+2025-06-15,Brighton,3.82
+2025-06-15,Dandenong,1.84
+2025-06-15,Geelong South,3.18
+2025-06-15,Macleod,4.98
+2025-06-15,Melbourne CBD,4.08
+2025-06-15,Melton,2.14
+2025-06-15,Traralgon,14.42
+2025-06-16,Alphington,2.55
+2025-06-16,Box Hill,1.19
+2025-06-16,Brighton,3.44
+2025-06-16,Dandenong,1.73
+2025-06-16,Geelong South,2.13
+2025-06-16,Macleod,0.87
+2025-06-16,Melbourne CBD,2.49
+2025-06-16,Melton,2.24
+2025-06-16,Traralgon,9.39
+2025-06-17,Alphington,4.84
+2025-06-17,Box Hill,2.11
+2025-06-17,Brighton,4.92
+2025-06-17,Dandenong,2.34
+2025-06-17,Geelong South,2.63
+2025-06-17,Macleod,1.39
+2025-06-17,Melbourne CBD,4.55
+2025-06-17,Melton,1.55
+2025-06-17,Traralgon,4.3
+2025-06-18,Alphington,6.96
+2025-06-18,Box Hill,4.02
+2025-06-18,Brighton,5.65
+2025-06-18,Dandenong,4.13
+2025-06-18,Geelong South,2.31
+2025-06-18,Macleod,1.39
+2025-06-18,Melbourne CBD,5.04
+2025-06-18,Melton,2.7
+2025-06-18,Traralgon,4.06
+2025-06-19,Alphington,6.85
+2025-06-19,Box Hill,3.65
+2025-06-19,Brighton,6.75
+2025-06-19,Dandenong,3.74
+2025-06-19,Geelong South,5.8
+2025-06-19,Macleod,2.46
+2025-06-19,Melbourne CBD,4.82
+2025-06-19,Melton,4.25
+2025-06-19,Traralgon,12.34
+2025-06-20,Alphington,10.37
+2025-06-20,Box Hill,6.07
+2025-06-20,Brighton,10.32
+2025-06-20,Dandenong,7.53
+2025-06-20,Geelong South,15.52
+2025-06-20,Macleod,2.74
+2025-06-20,Melbourne CBD,7.5
+2025-06-20,Melton,6.9
+2025-06-20,Traralgon,15.29
+2025-06-21,Alphington,13.07
+2025-06-21,Box Hill,8.98
+2025-06-21,Brighton,11.68
+2025-06-21,Dandenong,8.87
+2025-06-21,Geelong South,9.38
+2025-06-21,Macleod,5.58
+2025-06-21,Melbourne CBD,9.93
+2025-06-21,Melton,8.86
+2025-06-21,Traralgon,15.02
+2025-06-22,Alphington,19.42
+2025-06-22,Box Hill,7.34
+2025-06-22,Brighton,10.75
+2025-06-22,Dandenong,8.86
+2025-06-22,Geelong South,9.52
+2025-06-22,Macleod,4.25
+2025-06-22,Melbourne CBD,6.5
+2025-06-22,Melton,9.0
+2025-06-22,Traralgon,18.63
+2025-06-23,Alphington,4.68
+2025-06-23,Box Hill,0.52
+2025-06-23,Brighton,4.9
+2025-06-23,Dandenong,2.82
+2025-06-23,Geelong South,2.62
+2025-06-23,Macleod,0.35
+2025-06-23,Melbourne CBD,3.93
+2025-06-23,Melton,1.79
+2025-06-23,Traralgon,8.69
+2025-06-24,Alphington,5.46
+2025-06-24,Box Hill,2.78
+2025-06-24,Brighton,4.43
+2025-06-24,Dandenong,4.24
+2025-06-24,Geelong South,2.42
+2025-06-24,Macleod,2.59
+2025-06-24,Melbourne CBD,4.4
+2025-06-24,Melton,3.44
+2025-06-24,Traralgon,3.79
+2025-06-25,Alphington,2.77
+2025-06-25,Box Hill,1.52
+2025-06-25,Brighton,5.81
+2025-06-25,Dandenong,1.92
+2025-06-25,Geelong South,3.25
+2025-06-25,Macleod,1.3
+2025-06-25,Melbourne CBD,4.22
+2025-06-25,Traralgon,4.2
+2025-06-26,Alphington,8.71
+2025-06-26,Box Hill,6.11
+2025-06-26,Brighton,8.01
+2025-06-26,Dandenong,7.52
+2025-06-26,Geelong South,4.49
+2025-06-26,Macleod,4.16
+2025-06-26,Melbourne CBD,8.28
+2025-06-26,Melton,4.75
+2025-06-26,Traralgon,7.75
+2025-06-27,Alphington,11.94
+2025-06-27,Box Hill,6.6
+2025-06-27,Brighton,12.42
+2025-06-27,Dandenong,7.69
+2025-06-27,Geelong South,5.11
+2025-06-27,Macleod,9.51
+2025-06-27,Melbourne CBD,11.15
+2025-06-27,Melton,4.0
+2025-06-27,Traralgon,8.87
+2025-06-28,Alphington,14.29
+2025-06-28,Box Hill,8.17
+2025-06-28,Brighton,13.21
+2025-06-28,Dandenong,10.32
+2025-06-28,Geelong South,4.67
+2025-06-28,Macleod,7.0
+2025-06-28,Melbourne CBD,11.99
+2025-06-28,Melton,5.08
+2025-06-28,Traralgon,16.89
+2025-06-29,Alphington,12.32
+2025-06-29,Box Hill,5.91
+2025-06-29,Brighton,10.73
+2025-06-29,Dandenong,5.13
+2025-06-29,Geelong South,2.69
+2025-06-29,Macleod,5.4
+2025-06-29,Melbourne CBD,10.4
+2025-06-29,Melton,3.26
+2025-06-29,Traralgon,15.76
+2025-06-30,Alphington,8.95
+2025-06-30,Box Hill,6.34
+2025-06-30,Brighton,12.42
+2025-06-30,Dandenong,9.99
+2025-06-30,Geelong South,2.62
+2025-06-30,Macleod,3.99
+2025-06-30,Melbourne CBD,6.58
+2025-06-30,Melton,2.33
+2025-06-30,Traralgon,9.02
+2025-07-01,Alphington,8.82
+2025-07-01,Box Hill,6.48
+2025-07-01,Brighton,6.9
+2025-07-01,Dandenong,7.51
+2025-07-01,Geelong South,3.8
+2025-07-01,Macleod,3.0
+2025-07-01,Melbourne CBD,7.47
+2025-07-01,Melton,1.97
+2025-07-01,Traralgon,6.01
+2025-07-02,Alphington,4.53
+2025-07-02,Box Hill,1.75
+2025-07-02,Brighton,4.52
+2025-07-02,Dandenong,3.81
+2025-07-02,Geelong South,3.67
+2025-07-02,Macleod,2.24
+2025-07-02,Melbourne CBD,4.82
+2025-07-02,Melton,2.35
+2025-07-02,Traralgon,5.99
+2025-07-03,Alphington,9.7
+2025-07-03,Box Hill,4.36
+2025-07-03,Brighton,8.52
+2025-07-03,Dandenong,6.21
+2025-07-03,Geelong South,5.04
+2025-07-03,Macleod,6.41
+2025-07-03,Melbourne CBD,8.96
+2025-07-03,Melton,4.84
+2025-07-03,Traralgon,11.38
+2025-07-04,Alphington,11.02
+2025-07-04,Box Hill,5.76
+2025-07-04,Brighton,13.26
+2025-07-04,Dandenong,6.85
+2025-07-04,Geelong South,9.01
+2025-07-04,Macleod,4.91
+2025-07-04,Melbourne CBD,11.1
+2025-07-04,Melton,7.12
+2025-07-04,Traralgon,11.82
+2025-07-05,Alphington,6.6
+2025-07-05,Box Hill,1.96
+2025-07-05,Brighton,8.34
+2025-07-05,Dandenong,7.61
+2025-07-05,Geelong South,3.99
+2025-07-05,Macleod,1.96
+2025-07-05,Melbourne CBD,5.35
+2025-07-05,Melton,3.67
+2025-07-05,Traralgon,10.15
+2025-07-06,Alphington,14.59
+2025-07-06,Box Hill,7.26
+2025-07-06,Brighton,16.16
+2025-07-06,Dandenong,15.51
+2025-07-06,Geelong South,9.79
+2025-07-06,Macleod,6.18
+2025-07-06,Melbourne CBD,9.63
+2025-07-06,Melton,8.27
+2025-07-06,Traralgon,28.58
+2025-07-07,Alphington,15.72
+2025-07-07,Box Hill,11.92
+2025-07-07,Brighton,21.03
+2025-07-07,Dandenong,13.7
+2025-07-07,Geelong South,9.97
+2025-07-07,Macleod,7.42
+2025-07-07,Melbourne CBD,13.71
+2025-07-07,Melton,9.21
+2025-07-07,Traralgon,17.22
+2025-07-08,Alphington,4.12
+2025-07-08,Box Hill,1.77
+2025-07-08,Brighton,4.68
+2025-07-08,Dandenong,2.4
+2025-07-08,Geelong South,3.09
+2025-07-08,Macleod,0.38
+2025-07-08,Melbourne CBD,4.26
+2025-07-08,Melton,2.19
+2025-07-08,Traralgon,12.52
+2025-07-09,Alphington,4.53
+2025-07-09,Box Hill,1.49
+2025-07-09,Brighton,7.14
+2025-07-09,Dandenong,3.4
+2025-07-09,Geelong South,2.47
+2025-07-09,Macleod,0.61
+2025-07-09,Melbourne CBD,3.93
+2025-07-09,Melton,2.09
+2025-07-09,Traralgon,4.01
+2025-07-10,Alphington,3.82
+2025-07-10,Box Hill,1.11
+2025-07-10,Brighton,5.14
+2025-07-10,Dandenong,2.48
+2025-07-10,Geelong South,1.49
+2025-07-10,Macleod,0.4
+2025-07-10,Melbourne CBD,3.99
+2025-07-10,Melton,1.79
+2025-07-10,Traralgon,5.8
+2025-07-11,Alphington,6.48
+2025-07-11,Box Hill,3.3
+2025-07-11,Brighton,6.46
+2025-07-11,Dandenong,4.23
+2025-07-11,Geelong South,4.43
+2025-07-11,Macleod,2.13
+2025-07-11,Melbourne CBD,6.09
+2025-07-11,Melton,3.82
+2025-07-11,Traralgon,6.5
+2025-07-12,Alphington,9.96
+2025-07-12,Box Hill,6.56
+2025-07-12,Brighton,10.8
+2025-07-12,Dandenong,7.89
+2025-07-12,Geelong South,5.06
+2025-07-12,Macleod,4.98
+2025-07-12,Melbourne CBD,9.74
+2025-07-12,Melton,4.55
+2025-07-12,Traralgon,11.84
+2025-07-13,Alphington,4.67
+2025-07-13,Box Hill,1.81
+2025-07-13,Brighton,5.97
+2025-07-13,Dandenong,3.12
+2025-07-13,Geelong South,2.55
+2025-07-13,Macleod,0.49
+2025-07-13,Melbourne CBD,3.72
+2025-07-13,Melton,3.2
+2025-07-13,Traralgon,14.27
+2025-07-14,Alphington,5.4
+2025-07-14,Box Hill,2.82
+2025-07-14,Brighton,5.31
+2025-07-14,Dandenong,5.35
+2025-07-14,Geelong South,3.07
+2025-07-14,Macleod,1.76
+2025-07-14,Melbourne CBD,5.3
+2025-07-14,Melton,3.08
+2025-07-14,Traralgon,7.42
+2025-07-15,Alphington,4.11
+2025-07-15,Box Hill,2.05
+2025-07-15,Brighton,5.7
+2025-07-15,Dandenong,3.1
+2025-07-15,Geelong South,2.16
+2025-07-15,Macleod,0.44
+2025-07-15,Melbourne CBD,4.16
+2025-07-15,Melton,2.07
+2025-07-15,Traralgon,6.23
+2025-07-16,Alphington,4.75
+2025-07-16,Box Hill,1.41
+2025-07-16,Brighton,6.16
+2025-07-16,Dandenong,2.46
+2025-07-16,Geelong South,2.46
+2025-07-16,Macleod,1.3
+2025-07-16,Melbourne CBD,4.37
+2025-07-16,Melton,1.44
+2025-07-16,Traralgon,10.66
+2025-07-17,Alphington,6.7
+2025-07-17,Box Hill,2.91
+2025-07-17,Brighton,7.4
+2025-07-17,Dandenong,4.21
+2025-07-17,Geelong South,5.14
+2025-07-17,Macleod,2.12
+2025-07-17,Melbourne CBD,4.98
+2025-07-17,Melton,3.51
+2025-07-17,Traralgon,10.94
+2025-07-18,Alphington,9.17
+2025-07-18,Box Hill,6.06
+2025-07-18,Brighton,11.89
+2025-07-18,Dandenong,7.68
+2025-07-18,Geelong South,5.98
+2025-07-18,Macleod,5.27
+2025-07-18,Melbourne CBD,9.05
+2025-07-18,Melton,5.47
+2025-07-18,Traralgon,13.24
+2025-07-19,Alphington,7.72
+2025-07-19,Box Hill,3.5
+2025-07-19,Brighton,7.54
+2025-07-19,Dandenong,4.15
+2025-07-19,Geelong South,4.86
+2025-07-19,Macleod,2.14
+2025-07-19,Melbourne CBD,5.86
+2025-07-19,Melton,3.37
+2025-07-19,Traralgon,11.8
+2025-07-20,Alphington,13.28
+2025-07-20,Box Hill,8.33
+2025-07-20,Brighton,10.53
+2025-07-20,Dandenong,8.23
+2025-07-20,Geelong South,6.1
+2025-07-20,Macleod,5.1
+2025-07-20,Melbourne CBD,9.66
+2025-07-20,Melton,8.63
+2025-07-20,Traralgon,9.75
+2025-07-21,Alphington,11.85
+2025-07-21,Box Hill,3.49
+2025-07-21,Brighton,9.05
+2025-07-21,Dandenong,7.37
+2025-07-21,Geelong South,8.26
+2025-07-21,Macleod,2.88
+2025-07-21,Melbourne CBD,7.91
+2025-07-21,Melton,6.87
+2025-07-21,Traralgon,17.27
+2025-07-22,Alphington,2.46
+2025-07-22,Box Hill,0.12
+2025-07-22,Brighton,4.15
+2025-07-22,Dandenong,2.8
+2025-07-22,Geelong South,2.3
+2025-07-22,Macleod,-0.97
+2025-07-22,Melbourne CBD,3.66
+2025-07-22,Melton,1.67
+2025-07-22,Traralgon,10.78
+2025-07-23,Alphington,5.18
+2025-07-23,Box Hill,2.81
+2025-07-23,Brighton,4.52
+2025-07-23,Dandenong,3.79
+2025-07-23,Geelong South,2.81
+2025-07-23,Macleod,1.14
+2025-07-23,Melbourne CBD,5.3
+2025-07-23,Melton,2.36
+2025-07-23,Traralgon,6.39
+2025-07-24,Alphington,6.57
+2025-07-24,Box Hill,3.02
+2025-07-24,Brighton,5.75
+2025-07-24,Dandenong,4.29
+2025-07-24,Geelong South,4.18
+2025-07-24,Macleod,1.51
+2025-07-24,Melbourne CBD,5.27
+2025-07-24,Melton,3.26
+2025-07-24,Traralgon,7.0
+2025-07-25,Alphington,4.91
+2025-07-25,Box Hill,0.95
+2025-07-25,Brighton,3.99
+2025-07-25,Dandenong,3.25
+2025-07-25,Geelong South,7.4
+2025-07-25,Macleod,0.43
+2025-07-25,Melbourne CBD,4.05
+2025-07-25,Melton,1.44
+2025-07-25,Traralgon,11.69
+2025-07-26,Alphington,2.39
+2025-07-26,Box Hill,0.23
+2025-07-26,Brighton,3.04
+2025-07-26,Dandenong,1.34
+2025-07-26,Macleod,-1.09
+2025-07-26,Melbourne CBD,1.86
+2025-07-26,Melton,0.42
+2025-07-26,Traralgon,6.02
+2025-07-27,Alphington,2.82
+2025-07-27,Box Hill,0.71
+2025-07-27,Brighton,3.97
+2025-07-27,Dandenong,2.26
+2025-07-27,Macleod,-0.69
+2025-07-27,Melbourne CBD,3.04
+2025-07-27,Melton,0.56
+2025-07-27,Traralgon,8.56
+2025-07-28,Alphington,3.46
+2025-07-28,Box Hill,1.85
+2025-07-28,Brighton,5.54
+2025-07-28,Dandenong,2.68
+2025-07-28,Geelong South,4.34
+2025-07-28,Macleod,0.87
+2025-07-28,Melbourne CBD,5.43
+2025-07-28,Melton,1.49
+2025-07-28,Traralgon,6.48
+2025-07-29,Alphington,6.95
+2025-07-29,Box Hill,2.58
+2025-07-29,Brighton,4.81
+2025-07-29,Dandenong,6.57
+2025-07-29,Geelong South,2.88
+2025-07-29,Macleod,3.1
+2025-07-29,Melbourne CBD,5.47
+2025-07-29,Melton,3.01
+2025-07-29,Traralgon,8.19
+2025-07-30,Alphington,9.59
+2025-07-30,Box Hill,5.18
+2025-07-30,Brighton,4.68
+2025-07-30,Dandenong,8.75
+2025-07-30,Geelong South,2.48
+2025-07-30,Macleod,5.8
+2025-07-30,Melbourne CBD,10.25
+2025-07-30,Melton,2.73
+2025-07-30,Traralgon,11.31
+2025-07-31,Alphington,7.07
+2025-07-31,Box Hill,2.81
+2025-07-31,Brighton,6.72
+2025-07-31,Dandenong,6.91
+2025-07-31,Geelong South,5.42
+2025-07-31,Macleod,2.43
+2025-07-31,Melbourne CBD,6.52
+2025-07-31,Melton,3.54
+2025-07-31,Traralgon,8.85
+2025-08-01,Alphington,11.46
+2025-08-01,Box Hill,6.04
+2025-08-01,Brighton,9.41
+2025-08-01,Dandenong,7.38
+2025-08-01,Geelong South,5.05
+2025-08-01,Macleod,8.46
+2025-08-01,Melbourne CBD,10.49
+2025-08-01,Melton,5.73
+2025-08-01,Traralgon,6.89
+2025-08-02,Alphington,12.31
+2025-08-02,Box Hill,9.89
+2025-08-02,Brighton,14.25
+2025-08-02,Dandenong,9.85
+2025-08-02,Geelong South,9.17
+2025-08-02,Macleod,7.71
+2025-08-02,Melbourne CBD,11.4
+2025-08-02,Melton,6.15
+2025-08-02,Traralgon,5.41
+2025-08-03,Alphington,22.03
+2025-08-03,Box Hill,13.68
+2025-08-03,Brighton,19.99
+2025-08-03,Dandenong,16.7
+2025-08-03,Geelong South,12.63
+2025-08-03,Macleod,11.59
+2025-08-03,Melbourne CBD,18.59
+2025-08-03,Melton,8.75
+2025-08-03,Traralgon,5.79
+2025-08-04,Alphington,6.86
+2025-08-04,Box Hill,1.18
+2025-08-04,Brighton,5.6
+2025-08-04,Dandenong,3.37
+2025-08-04,Geelong South,5.32
+2025-08-04,Macleod,1.04
+2025-08-04,Melbourne CBD,4.86
+2025-08-04,Melton,4.14
+2025-08-04,Traralgon,8.32
+2025-08-05,Alphington,4.17
+2025-08-05,Box Hill,1.32
+2025-08-05,Brighton,3.42
+2025-08-05,Dandenong,4.19
+2025-08-05,Geelong South,2.03
+2025-08-05,Macleod,0.96
+2025-08-05,Melbourne CBD,4.26
+2025-08-05,Melton,2.89
+2025-08-05,Traralgon,7.79
+2025-08-06,Alphington,5.22
+2025-08-06,Box Hill,3.0
+2025-08-06,Brighton,5.87
+2025-08-06,Dandenong,4.68
+2025-08-06,Geelong South,2.86
+2025-08-06,Macleod,2.41
+2025-08-06,Melbourne CBD,6.73
+2025-08-06,Melton,3.57
+2025-08-06,Traralgon,9.81
+2025-08-07,Alphington,7.45
+2025-08-07,Box Hill,3.58
+2025-08-07,Brighton,7.91
+2025-08-07,Dandenong,6.34
+2025-08-07,Geelong South,4.66
+2025-08-07,Macleod,2.42
+2025-08-07,Melbourne CBD,6.3
+2025-08-07,Melton,4.17
+2025-08-07,Traralgon,10.16
+2025-08-08,Alphington,10.21
+2025-08-08,Box Hill,6.78
+2025-08-08,Brighton,8.61
+2025-08-08,Dandenong,9.07
+2025-08-08,Geelong South,5.16
+2025-08-08,Macleod,5.57
+2025-08-08,Melbourne CBD,10.5
+2025-08-08,Melton,3.32
+2025-08-08,Traralgon,7.84
+2025-08-09,Alphington,18.08
+2025-08-09,Box Hill,11.51
+2025-08-09,Brighton,15.95
+2025-08-09,Dandenong,13.15
+2025-08-09,Geelong South,10.02
+2025-08-09,Macleod,10.03
+2025-08-09,Melbourne CBD,15.24
+2025-08-09,Melton,9.84
+2025-08-09,Traralgon,4.34
+2025-08-10,Alphington,21.91
+2025-08-10,Box Hill,14.15
+2025-08-10,Brighton,20.31
+2025-08-10,Dandenong,16.58
+2025-08-10,Geelong South,14.62
+2025-08-10,Macleod,11.96
+2025-08-10,Melbourne CBD,18.54
+2025-08-10,Melton,8.94
+2025-08-10,Traralgon,3.98
+2025-08-11,Alphington,13.98
+2025-08-11,Box Hill,8.2
+2025-08-11,Brighton,11.21
+2025-08-11,Dandenong,11.25
+2025-08-11,Geelong South,10.68
+2025-08-11,Macleod,6.76
+2025-08-11,Melbourne CBD,10.68
+2025-08-11,Melton,5.74
+2025-08-11,Traralgon,4.51
+2025-08-12,Alphington,7.55
+2025-08-12,Box Hill,3.03
+2025-08-12,Brighton,7.47
+2025-08-12,Dandenong,6.9
+2025-08-12,Geelong South,5.84
+2025-08-12,Macleod,3.52
+2025-08-12,Melbourne CBD,5.13
+2025-08-12,Melton,6.25
+2025-08-12,Traralgon,8.3
+2025-08-13,Box Hill,3.93
+2025-08-13,Brighton,7.58
+2025-08-13,Dandenong,7.21
+2025-08-13,Geelong South,4.66
+2025-08-13,Macleod,3.8
+2025-08-13,Melbourne CBD,9.04
+2025-08-13,Melton,3.79
+2025-08-13,Traralgon,6.65
+2025-08-14,Box Hill,5.47
+2025-08-14,Brighton,15.14
+2025-08-14,Dandenong,9.48
+2025-08-14,Geelong South,5.64
+2025-08-14,Macleod,5.38
+2025-08-14,Melbourne CBD,11.44
+2025-08-14,Melton,3.91
+2025-08-14,Traralgon,8.79
+2025-08-15,Alphington,11.15
+2025-08-15,Box Hill,2.2
+2025-08-15,Dandenong,4.14
+2025-08-15,Geelong South,2.82
+2025-08-15,Macleod,1.94
+2025-08-15,Melbourne CBD,4.85
+2025-08-15,Melton,1.87
+2025-08-15,Traralgon,10.14
+2025-08-16,Alphington,6.09
+2025-08-16,Box Hill,3.81
+2025-08-16,Dandenong,4.72
+2025-08-16,Geelong South,3.23
+2025-08-16,Macleod,2.93
+2025-08-16,Melbourne CBD,6.17
+2025-08-16,Melton,3.12
+2025-08-16,Traralgon,5.84
+2025-08-17,Alphington,7.14
+2025-08-17,Box Hill,4.17
+2025-08-17,Dandenong,5.32
+2025-08-17,Geelong South,3.67
+2025-08-17,Macleod,3.29
+2025-08-17,Melbourne CBD,5.69
+2025-08-17,Melton,4.79
+2025-08-17,Traralgon,6.93
+2025-08-18,Alphington,6.78
+2025-08-18,Box Hill,2.88
+2025-08-18,Brighton,4.11
+2025-08-18,Dandenong,7.65
+2025-08-18,Geelong South,3.94
+2025-08-18,Macleod,3.29
+2025-08-18,Melbourne CBD,5.42
+2025-08-18,Melton,3.34
+2025-08-18,Traralgon,7.9
+2025-08-19,Alphington,13.12
+2025-08-19,Box Hill,8.29
+2025-08-19,Brighton,14.16
+2025-08-19,Dandenong,11.33
+2025-08-19,Geelong South,10.21
+2025-08-19,Macleod,7.76
+2025-08-19,Melbourne CBD,13.66
+2025-08-19,Melton,7.19
+2025-08-19,Traralgon,10.06
+2025-08-20,Alphington,9.63
+2025-08-20,Box Hill,5.18
+2025-08-20,Brighton,9.11
+2025-08-20,Dandenong,10.64
+2025-08-20,Geelong South,11.82
+2025-08-20,Macleod,5.0
+2025-08-20,Melbourne CBD,9.39
+2025-08-20,Melton,7.05
+2025-08-20,Traralgon,7.12
+2025-08-21,Alphington,10.57
+2025-08-21,Box Hill,4.16
+2025-08-21,Brighton,11.92
+2025-08-21,Dandenong,10.69
+2025-08-21,Geelong South,10.48
+2025-08-21,Macleod,5.58
+2025-08-21,Melbourne CBD,10.51
+2025-08-21,Melton,6.51
+2025-08-21,Traralgon,10.58
+2025-08-22,Alphington,5.98
+2025-08-22,Box Hill,2.17
+2025-08-22,Brighton,6.04
+2025-08-22,Dandenong,4.72
+2025-08-22,Geelong South,7.49
+2025-08-22,Macleod,1.22
+2025-08-22,Melbourne CBD,5.65
+2025-08-22,Melton,2.49
+2025-08-22,Traralgon,9.98
+2025-08-23,Alphington,9.27
+2025-08-23,Box Hill,3.74
+2025-08-23,Brighton,7.37
+2025-08-23,Dandenong,5.95
+2025-08-23,Geelong South,4.63
+2025-08-23,Macleod,3.54
+2025-08-23,Melbourne CBD,7.28
+2025-08-23,Melton,4.25
+2025-08-23,Traralgon,13.0
+2025-08-24,Alphington,14.62
+2025-08-24,Box Hill,7.23
+2025-08-24,Brighton,12.89
+2025-08-24,Dandenong,10.19
+2025-08-24,Geelong South,6.4
+2025-08-24,Macleod,8.13
+2025-08-24,Melbourne CBD,12.07
+2025-08-24,Melton,6.2
+2025-08-24,Traralgon,9.98
+2025-08-25,Alphington,8.49
+2025-08-25,Box Hill,5.49
+2025-08-25,Brighton,9.56
+2025-08-25,Dandenong,7.8
+2025-08-25,Geelong South,7.12
+2025-08-25,Macleod,4.46
+2025-08-25,Melbourne CBD,7.52
+2025-08-25,Melton,5.32
+2025-08-25,Traralgon,4.27
+2025-08-26,Alphington,3.37
+2025-08-26,Box Hill,1.05
+2025-08-26,Brighton,3.47
+2025-08-26,Dandenong,3.93
+2025-08-26,Geelong South,2.04
+2025-08-26,Macleod,0.34
+2025-08-26,Melbourne CBD,3.86
+2025-08-26,Melton,2.05
+2025-08-26,Traralgon,6.82
+2025-08-27,Alphington,3.18
+2025-08-27,Box Hill,0.75
+2025-08-27,Brighton,3.53
+2025-08-27,Dandenong,2.77
+2025-08-27,Geelong South,1.89
+2025-08-27,Macleod,0.24
+2025-08-27,Melbourne CBD,3.92
+2025-08-27,Melton,0.02
+2025-08-27,Traralgon,5.03
+2025-08-28,Alphington,3.05
+2025-08-28,Box Hill,1.04
+2025-08-28,Brighton,4.82
+2025-08-28,Dandenong,3.58
+2025-08-28,Geelong South,1.41
+2025-08-28,Macleod,0.3
+2025-08-28,Melbourne CBD,3.19
+2025-08-28,Melton,0.71
+2025-08-28,Traralgon,3.23
+2025-08-29,Alphington,3.65
+2025-08-29,Box Hill,-0.24
+2025-08-29,Brighton,4.99
+2025-08-29,Dandenong,2.48
+2025-08-29,Geelong South,2.31
+2025-08-29,Macleod,0.5
+2025-08-29,Melbourne CBD,2.64
+2025-08-29,Melton,2.51
+2025-08-29,Traralgon,2.42
+2025-08-30,Alphington,6.84
+2025-08-30,Box Hill,4.35
+2025-08-30,Brighton,7.24
+2025-08-30,Dandenong,6.18
+2025-08-30,Geelong South,4.44
+2025-08-30,Macleod,3.59
+2025-08-30,Melbourne CBD,6.17
+2025-08-30,Melton,2.13
+2025-08-30,Traralgon,5.71
+2025-08-31,Alphington,4.75
+2025-08-31,Box Hill,2.1
+2025-08-31,Brighton,4.58
+2025-08-31,Dandenong,2.94
+2025-08-31,Geelong South,0.98
+2025-08-31,Macleod,1.36
+2025-08-31,Melbourne CBD,3.95
+2025-08-31,Melton,2.01
+2025-08-31,Traralgon,5.15
+2025-09-01,Alphington,4.4
+2025-09-01,Box Hill,1.68
+2025-09-01,Brighton,4.5
+2025-09-01,Dandenong,3.47
+2025-09-01,Geelong South,2.71
+2025-09-01,Macleod,1.57
+2025-09-01,Melbourne CBD,4.75
+2025-09-01,Melton,1.64
+2025-09-01,Traralgon,6.07
+2025-09-02,Alphington,5.41
+2025-09-02,Box Hill,1.92
+2025-09-02,Brighton,4.79
+2025-09-02,Dandenong,3.74
+2025-09-02,Geelong South,2.84
+2025-09-02,Macleod,1.46
+2025-09-02,Melbourne CBD,5.31
+2025-09-02,Melton,2.5
+2025-09-02,Traralgon,7.1
+2025-09-03,Alphington,5.8
+2025-09-03,Box Hill,2.51
+2025-09-03,Brighton,5.41
+2025-09-03,Dandenong,4.18
+2025-09-03,Geelong South,3.64
+2025-09-03,Macleod,1.51
+2025-09-03,Melbourne CBD,4.77
+2025-09-03,Melton,3.22
+2025-09-03,Traralgon,5.7
+2025-09-04,Alphington,4.1
+2025-09-04,Box Hill,2.06
+2025-09-04,Brighton,4.27
+2025-09-04,Dandenong,4.45
+2025-09-04,Geelong South,2.91
+2025-09-04,Macleod,1.41
+2025-09-04,Melbourne CBD,4.06
+2025-09-04,Melton,1.86
+2025-09-04,Traralgon,4.9
+2025-09-05,Alphington,7.29
+2025-09-05,Box Hill,4.05
+2025-09-05,Brighton,6.52
+2025-09-05,Dandenong,6.99
+2025-09-05,Geelong South,5.4
+2025-09-05,Macleod,4.75
+2025-09-05,Melbourne CBD,7.91
+2025-09-05,Melton,5.84
+2025-09-05,Traralgon,7.02
+2025-09-06,Alphington,11.02
+2025-09-06,Box Hill,4.51
+2025-09-06,Brighton,10.09
+2025-09-06,Dandenong,8.48
+2025-09-06,Geelong South,6.82
+2025-09-06,Macleod,6.14
+2025-09-06,Melbourne CBD,9.53
+2025-09-06,Melton,6.34
+2025-09-06,Traralgon,5.35
+2025-09-07,Alphington,7.43
+2025-09-07,Box Hill,4.54
+2025-09-07,Brighton,7.31
+2025-09-07,Dandenong,6.85
+2025-09-07,Geelong South,6.23
+2025-09-07,Macleod,4.6
+2025-09-07,Melbourne CBD,6.48
+2025-09-07,Melton,5.04
+2025-09-07,Traralgon,7.25
+2025-09-08,Alphington,5.64
+2025-09-08,Box Hill,3.71
+2025-09-08,Brighton,6.0
+2025-09-08,Dandenong,4.87
+2025-09-08,Geelong South,3.21
+2025-09-08,Macleod,1.88
+2025-09-08,Melbourne CBD,5.53
+2025-09-08,Melton,3.29
+2025-09-08,Traralgon,5.22
+2025-09-09,Alphington,4.99
+2025-09-09,Box Hill,3.95
+2025-09-09,Brighton,5.6
+2025-09-09,Dandenong,5.19
+2025-09-09,Geelong South,4.46
+2025-09-09,Macleod,2.83
+2025-09-09,Melbourne CBD,6.47
+2025-09-09,Melton,2.86
+2025-09-09,Traralgon,4.15
+2025-09-10,Alphington,5.86
+2025-09-10,Box Hill,3.83
+2025-09-10,Brighton,4.96
+2025-09-10,Dandenong,5.5
+2025-09-10,Geelong South,2.59
+2025-09-10,Macleod,3.21
+2025-09-10,Melbourne CBD,6.0
+2025-09-10,Melton,2.43
+2025-09-10,Traralgon,5.68
+2025-09-11,Alphington,4.34
+2025-09-11,Box Hill,1.14
+2025-09-11,Brighton,3.81
+2025-09-11,Dandenong,4.69
+2025-09-11,Geelong South,2.66
+2025-09-11,Macleod,1.32
+2025-09-11,Melbourne CBD,4.7
+2025-09-11,Melton,0.33
+2025-09-11,Traralgon,4.09
+2025-09-12,Alphington,5.39
+2025-09-12,Box Hill,2.41
+2025-09-12,Brighton,5.52
+2025-09-12,Dandenong,3.46
+2025-09-12,Geelong South,3.58
+2025-09-12,Macleod,1.86
+2025-09-12,Melbourne CBD,6.23
+2025-09-12,Melton,2.85
+2025-09-12,Traralgon,4.82
+2025-09-13,Alphington,6.07
+2025-09-13,Box Hill,1.68
+2025-09-13,Brighton,5.88
+2025-09-13,Dandenong,3.78
+2025-09-13,Geelong South,3.31
+2025-09-13,Macleod,1.71
+2025-09-13,Melbourne CBD,5.64
+2025-09-13,Melton,2.0
+2025-09-13,Traralgon,6.17
+2025-09-14,Alphington,5.14
+2025-09-14,Box Hill,1.55
+2025-09-14,Brighton,5.53
+2025-09-14,Dandenong,3.95
+2025-09-14,Geelong South,2.44
+2025-09-14,Macleod,1.63
+2025-09-14,Melbourne CBD,4.73
+2025-09-14,Melton,1.41
+2025-09-14,Traralgon,7.33
+2025-09-15,Alphington,3.66
+2025-09-15,Box Hill,0.5
+2025-09-15,Brighton,3.72
+2025-09-15,Dandenong,3.06
+2025-09-15,Geelong South,2.54
+2025-09-15,Macleod,-0.1
+2025-09-15,Melbourne CBD,3.52
+2025-09-15,Melton,2.4
+2025-09-15,Traralgon,5.05
+2025-09-16,Alphington,2.99
+2025-09-16,Box Hill,2.77
+2025-09-16,Brighton,3.1
+2025-09-16,Dandenong,4.88
+2025-09-16,Geelong South,2.25
+2025-09-16,Macleod,1.7
+2025-09-16,Melbourne CBD,4.23
+2025-09-16,Melton,3.66
+2025-09-16,Traralgon,4.45
+2025-09-17,Alphington,5.6
+2025-09-17,Box Hill,2.23
+2025-09-17,Brighton,5.6
+2025-09-17,Dandenong,5.01
+2025-09-17,Geelong South,3.87
+2025-09-17,Macleod,3.1
+2025-09-17,Melbourne CBD,6.53
+2025-09-17,Melton,2.26
+2025-09-17,Traralgon,4.48
+2025-09-18,Alphington,7.2
+2025-09-18,Box Hill,4.35
+2025-09-18,Brighton,6.88
+2025-09-18,Dandenong,6.17
+2025-09-18,Geelong South,4.33
+2025-09-18,Macleod,3.86
+2025-09-18,Melbourne CBD,6.22
+2025-09-18,Melton,3.05
+2025-09-18,Traralgon,6.67
+2025-09-19,Alphington,3.71
+2025-09-19,Box Hill,2.46
+2025-09-19,Brighton,3.96
+2025-09-19,Dandenong,3.96
+2025-09-19,Geelong South,2.93
+2025-09-19,Macleod,0.43
+2025-09-19,Melbourne CBD,3.15
+2025-09-19,Melton,1.71
+2025-09-19,Traralgon,4.39
+2025-09-20,Alphington,4.57
+2025-09-20,Box Hill,2.62
+2025-09-20,Brighton,4.63
+2025-09-20,Dandenong,4.38
+2025-09-20,Geelong South,3.47
+2025-09-20,Macleod,2.91
+2025-09-20,Melbourne CBD,5.43
+2025-09-20,Melton,2.43
+2025-09-20,Traralgon,4.68
+2025-09-21,Alphington,3.22
+2025-09-21,Box Hill,1.55
+2025-09-21,Brighton,2.96
+2025-09-21,Dandenong,2.05
+2025-09-21,Geelong South,1.8
+2025-09-21,Macleod,0.82
+2025-09-21,Melbourne CBD,3.25
+2025-09-21,Melton,2.21
+2025-09-21,Traralgon,3.53
+2025-09-22,Alphington,8.12
+2025-09-22,Box Hill,4.71
+2025-09-22,Brighton,6.69
+2025-09-22,Dandenong,5.65
+2025-09-22,Geelong South,5.04
+2025-09-22,Macleod,5.13
+2025-09-22,Melbourne CBD,8.37
+2025-09-22,Melton,4.48
+2025-09-22,Traralgon,6.03
+2025-09-23,Alphington,6.71
+2025-09-23,Box Hill,4.48
+2025-09-23,Brighton,7.6
+2025-09-23,Dandenong,4.9
+2025-09-23,Geelong South,3.69
+2025-09-23,Macleod,3.6
+2025-09-23,Melbourne CBD,7.95
+2025-09-23,Melton,3.3
+2025-09-23,Traralgon,7.56
+2025-09-24,Alphington,4.13
+2025-09-24,Box Hill,1.68
+2025-09-24,Brighton,5.24
+2025-09-24,Dandenong,3.08
+2025-09-24,Geelong South,2.41
+2025-09-24,Macleod,1.46
+2025-09-24,Melbourne CBD,5.48
+2025-09-24,Melton,1.47
+2025-09-24,Traralgon,5.0
+2025-09-25,Alphington,6.12
+2025-09-25,Box Hill,3.61
+2025-09-25,Brighton,5.0
+2025-09-25,Dandenong,3.95
+2025-09-25,Geelong South,3.27
+2025-09-25,Macleod,3.34
+2025-09-25,Melbourne CBD,6.58
+2025-09-25,Melton,3.55
+2025-09-25,Traralgon,4.69
+2025-09-26,Alphington,3.84
+2025-09-26,Box Hill,3.21
+2025-09-26,Brighton,5.62
+2025-09-26,Dandenong,3.98
+2025-09-26,Geelong South,4.45
+2025-09-26,Macleod,2.35
+2025-09-26,Melbourne CBD,5.44
+2025-09-26,Melton,2.91
+2025-09-26,Traralgon,5.39
+2025-09-27,Alphington,6.48
+2025-09-27,Box Hill,3.51
+2025-09-27,Brighton,6.19
+2025-09-27,Dandenong,5.01
+2025-09-27,Geelong South,3.11
+2025-09-27,Macleod,2.74
+2025-09-27,Melbourne CBD,6.48
+2025-09-27,Melton,3.62
+2025-09-27,Traralgon,7.61
+2025-09-28,Alphington,4.39
+2025-09-28,Box Hill,1.76
+2025-09-28,Brighton,5.38
+2025-09-28,Dandenong,3.73
+2025-09-28,Geelong South,3.39
+2025-09-28,Macleod,2.37
+2025-09-28,Melbourne CBD,5.66
+2025-09-28,Melton,3.23
+2025-09-28,Traralgon,5.98
+2025-09-29,Alphington,7.19
+2025-09-29,Box Hill,4.21
+2025-09-29,Brighton,8.04
+2025-09-29,Dandenong,5.54
+2025-09-29,Geelong South,6.63
+2025-09-29,Macleod,4.71
+2025-09-29,Melbourne CBD,7.43
+2025-09-29,Melton,3.35
+2025-09-29,Traralgon,6.26
+2025-09-30,Alphington,4.4
+2025-09-30,Box Hill,2.03
+2025-09-30,Brighton,5.0
+2025-09-30,Dandenong,3.68
+2025-09-30,Geelong South,2.72
+2025-09-30,Macleod,1.3
+2025-09-30,Melbourne CBD,5.98
+2025-09-30,Melton,1.19
+2025-09-30,Traralgon,5.17
+2025-10-01,Alphington,3.54
+2025-10-01,Box Hill,1.48
+2025-10-01,Brighton,3.6
+2025-10-01,Dandenong,2.14
+2025-10-01,Geelong South,1.97
+2025-10-01,Macleod,0.83
+2025-10-01,Melbourne CBD,3.21
+2025-10-01,Melton,1.85
+2025-10-01,Traralgon,3.82
+2025-10-02,Alphington,3.8
+2025-10-02,Box Hill,1.99
+2025-10-02,Brighton,5.75
+2025-10-02,Dandenong,4.6
+2025-10-02,Geelong South,3.92
+2025-10-02,Macleod,1.43
+2025-10-02,Melbourne CBD,5.12
+2025-10-02,Melton,3.15
+2025-10-02,Traralgon,4.09
+2025-10-03,Alphington,4.31
+2025-10-03,Box Hill,1.82
+2025-10-03,Brighton,5.55
+2025-10-03,Dandenong,3.43
+2025-10-03,Geelong South,2.19
+2025-10-03,Macleod,1.8
+2025-10-03,Melbourne CBD,5.46
+2025-10-03,Melton,1.51
+2025-10-03,Traralgon,4.44
+2025-10-04,Alphington,6.28
+2025-10-04,Box Hill,2.75
+2025-10-04,Brighton,7.04
+2025-10-04,Dandenong,4.67
+2025-10-04,Geelong South,3.3
+2025-10-04,Macleod,2.91
+2025-10-04,Melbourne CBD,6.16
+2025-10-04,Melton,2.62
+2025-10-04,Traralgon,5.96
+2025-10-05,Alphington,5.86
+2025-10-05,Box Hill,2.5
+2025-10-05,Brighton,5.17
+2025-10-05,Dandenong,3.31
+2025-10-05,Geelong South,3.45
+2025-10-05,Macleod,1.84
+2025-10-05,Melbourne CBD,4.96
+2025-10-05,Melton,4.02
+2025-10-05,Traralgon,5.34
+2025-10-06,Alphington,6.72
+2025-10-06,Box Hill,3.99
+2025-10-06,Brighton,6.54
+2025-10-06,Dandenong,7.43
+2025-10-06,Geelong South,6.25
+2025-10-06,Macleod,5.1
+2025-10-06,Melbourne CBD,7.64
+2025-10-06,Melton,4.21
+2025-10-06,Traralgon,6.97
+2025-10-07,Alphington,4.87
+2025-10-07,Box Hill,3.69
+2025-10-07,Brighton,5.57
+2025-10-07,Dandenong,4.32
+2025-10-07,Geelong South,2.43
+2025-10-07,Macleod,3.26
+2025-10-07,Melbourne CBD,6.1
+2025-10-07,Melton,2.71
+2025-10-07,Traralgon,6.19
+2025-10-08,Alphington,5.29
+2025-10-08,Box Hill,3.04
+2025-10-08,Brighton,6.42
+2025-10-08,Dandenong,5.18
+2025-10-08,Geelong South,3.05
+2025-10-08,Macleod,2.31
+2025-10-08,Melbourne CBD,5.55
+2025-10-08,Melton,3.6
+2025-10-08,Traralgon,6.05
+2025-10-09,Alphington,4.29
+2025-10-09,Box Hill,2.62
+2025-10-09,Brighton,5.94
+2025-10-09,Dandenong,4.86
+2025-10-09,Geelong South,4.2
+2025-10-09,Macleod,2.2
+2025-10-09,Melbourne CBD,5.17
+2025-10-09,Melton,2.38
+2025-10-09,Traralgon,6.73
+2025-10-10,Alphington,5.76
+2025-10-10,Box Hill,4.34
+2025-10-10,Brighton,6.07
+2025-10-10,Dandenong,5.67
+2025-10-10,Geelong South,5.81
+2025-10-10,Macleod,3.36
+2025-10-10,Melbourne CBD,7.0
+2025-10-10,Melton,4.06
+2025-10-10,Traralgon,5.59
+2025-10-11,Alphington,4.12
+2025-10-11,Box Hill,2.74
+2025-10-11,Brighton,3.86
+2025-10-11,Dandenong,4.0
+2025-10-11,Geelong South,3.29
+2025-10-11,Macleod,1.58
+2025-10-11,Melbourne CBD,5.35
+2025-10-11,Melton,1.99
+2025-10-11,Traralgon,5.24
+2025-10-12,Alphington,4.06
+2025-10-12,Box Hill,1.01
+2025-10-12,Brighton,3.43
+2025-10-12,Dandenong,2.68
+2025-10-12,Geelong South,2.76
+2025-10-12,Macleod,0.68
+2025-10-12,Melbourne CBD,3.06
+2025-10-12,Melton,0.42
+2025-10-12,Traralgon,3.01
+2025-10-13,Alphington,4.6
+2025-10-13,Box Hill,2.26
+2025-10-13,Brighton,2.73
+2025-10-13,Dandenong,4.24
+2025-10-13,Geelong South,2.49
+2025-10-13,Macleod,2.27
+2025-10-13,Melbourne CBD,6.07
+2025-10-13,Melton,2.49
+2025-10-13,Traralgon,3.07
+2025-10-14,Alphington,7.48
+2025-10-14,Box Hill,4.56
+2025-10-14,Brighton,8.07
+2025-10-14,Dandenong,7.4
+2025-10-14,Geelong South,4.46
+2025-10-14,Macleod,3.86
+2025-10-14,Melbourne CBD,8.34
+2025-10-14,Melton,15.31
+2025-10-14,Traralgon,7.04
+2025-10-15,Alphington,10.51
+2025-10-15,Box Hill,7.47
+2025-10-15,Brighton,10.13
+2025-10-15,Dandenong,9.41
+2025-10-15,Geelong South,7.06
+2025-10-15,Macleod,7.14
+2025-10-15,Melbourne CBD,12.63
+2025-10-15,Melton,11.17
+2025-10-15,Traralgon,9.28
+2025-10-16,Alphington,8.65
+2025-10-16,Box Hill,4.59
+2025-10-16,Brighton,10.76
+2025-10-16,Dandenong,6.53
+2025-10-16,Geelong South,8.69
+2025-10-16,Melbourne CBD,7.65
+2025-10-16,Melton,8.63
+2025-10-16,Traralgon,5.99
+2025-10-17,Alphington,11.06
+2025-10-17,Box Hill,5.29
+2025-10-17,Brighton,8.0
+2025-10-17,Dandenong,7.48
+2025-10-17,Geelong South,7.06
+2025-10-17,Macleod,5.25
+2025-10-17,Melbourne CBD,8.38
+2025-10-17,Melton,4.24
+2025-10-17,Traralgon,7.48
+2025-10-18,Alphington,10.2
+2025-10-18,Box Hill,5.8
+2025-10-18,Brighton,9.16
+2025-10-18,Dandenong,7.97
+2025-10-18,Geelong South,9.86
+2025-10-18,Macleod,6.06
+2025-10-18,Melbourne CBD,10.46
+2025-10-18,Melton,16.69
+2025-10-18,Traralgon,7.34
+2025-10-19,Alphington,16.09
+2025-10-19,Box Hill,3.19
+2025-10-19,Brighton,6.75
+2025-10-19,Dandenong,5.14
+2025-10-19,Geelong South,3.65
+2025-10-19,Macleod,2.66
+2025-10-19,Melbourne CBD,8.02
+2025-10-19,Melton,7.85
+2025-10-19,Traralgon,6.5
+2025-10-20,Alphington,15.57
+2025-10-20,Box Hill,5.36
+2025-10-20,Brighton,8.72
+2025-10-20,Dandenong,7.7
+2025-10-20,Geelong South,6.07
+2025-10-20,Macleod,5.48
+2025-10-20,Melbourne CBD,9.42
+2025-10-20,Melton,4.45
+2025-10-20,Traralgon,8.2
+2025-10-21,Alphington,10.85
+2025-10-21,Box Hill,5.73
+2025-10-21,Brighton,10.59
+2025-10-21,Dandenong,9.11
+2025-10-21,Geelong South,6.32
+2025-10-21,Macleod,4.95
+2025-10-21,Melbourne CBD,12.6
+2025-10-21,Melton,5.65
+2025-10-21,Traralgon,9.46
+2025-10-22,Alphington,5.86
+2025-10-22,Box Hill,2.0
+2025-10-22,Brighton,5.08
+2025-10-22,Dandenong,3.86
+2025-10-22,Geelong South,5.05
+2025-10-22,Macleod,0.58
+2025-10-22,Melbourne CBD,5.77
+2025-10-22,Melton,2.12
+2025-10-22,Traralgon,7.09
+2025-10-23,Alphington,9.53
+2025-10-23,Box Hill,3.4
+2025-10-23,Brighton,6.19
+2025-10-23,Dandenong,5.06
+2025-10-23,Geelong South,3.98
+2025-10-23,Macleod,3.2
+2025-10-23,Melbourne CBD,11.88
+2025-10-23,Melton,3.61
+2025-10-23,Traralgon,6.46
+2025-10-24,Alphington,4.76
+2025-10-24,Box Hill,2.4
+2025-10-24,Brighton,4.06
+2025-10-24,Dandenong,3.04
+2025-10-24,Geelong South,2.5
+2025-10-24,Macleod,1.88
+2025-10-24,Melbourne CBD,6.18
+2025-10-24,Melton,2.25
+2025-10-24,Traralgon,6.19
+2025-10-25,Alphington,9.72
+2025-10-25,Box Hill,5.48
+2025-10-25,Brighton,7.14
+2025-10-25,Dandenong,6.4
+2025-10-25,Geelong South,3.94
+2025-10-25,Macleod,4.95
+2025-10-25,Melbourne CBD,8.91
+2025-10-25,Melton,5.28
+2025-10-25,Traralgon,7.19
+2025-10-26,Alphington,18.72
+2025-10-26,Box Hill,3.26
+2025-10-26,Brighton,8.2
+2025-10-26,Dandenong,7.31
+2025-10-26,Geelong South,5.5
+2025-10-26,Macleod,3.48
+2025-10-26,Melbourne CBD,7.96
+2025-10-26,Melton,3.8
+2025-10-26,Traralgon,6.57
+2025-10-27,Alphington,5.86
+2025-10-27,Box Hill,1.88
+2025-10-27,Brighton,5.23
+2025-10-27,Dandenong,4.73
+2025-10-27,Geelong South,2.76
+2025-10-27,Macleod,2.45
+2025-10-27,Melbourne CBD,7.12
+2025-10-27,Melton,3.25
+2025-10-27,Traralgon,4.47
+2025-10-28,Alphington,5.55
+2025-10-28,Box Hill,1.89
+2025-10-28,Brighton,6.02
+2025-10-28,Dandenong,4.01
+2025-10-28,Footscray,4.04
+2025-10-28,Geelong South,2.83
+2025-10-28,Macleod,1.53
+2025-10-28,Melbourne CBD,5.89
+2025-10-28,Melton,2.21
+2025-10-28,Traralgon,4.31
+2025-10-29,Alphington,5.19
+2025-10-29,Box Hill,4.34
+2025-10-29,Brighton,7.58
+2025-10-29,Dandenong,5.89
+2025-10-29,Footscray,6.4
+2025-10-29,Geelong South,5.04
+2025-10-29,Macleod,3.43
+2025-10-29,Melbourne CBD,9.27
+2025-10-29,Melton,3.01
+2025-10-29,Traralgon,5.7
+2025-10-30,Alphington,7.24
+2025-10-30,Box Hill,4.02
+2025-10-30,Brighton,8.71
+2025-10-30,Dandenong,6.17
+2025-10-30,Footscray,6.16
+2025-10-30,Geelong South,4.71
+2025-10-30,Macleod,4.19
+2025-10-30,Melbourne CBD,8.43
+2025-10-30,Melton,3.27
+2025-10-30,Traralgon,5.33
+2025-10-31,Alphington,6.33
+2025-10-31,Box Hill,3.4
+2025-10-31,Brighton,6.12
+2025-10-31,Dandenong,6.4
+2025-10-31,Footscray,5.32
+2025-10-31,Geelong South,4.77
+2025-10-31,Macleod,3.23
+2025-10-31,Melbourne CBD,8.09
+2025-10-31,Melton,3.4
+2025-10-31,Traralgon,6.26
+2025-11-01,Alphington,9.52
+2025-11-01,Box Hill,7.15
+2025-11-01,Brighton,7.43
+2025-11-01,Dandenong,8.25
+2025-11-01,Footscray,6.29
+2025-11-01,Geelong South,6.21
+2025-11-01,Macleod,6.67
+2025-11-01,Melbourne CBD,10.91
+2025-11-01,Melton,5.14
+2025-11-01,Traralgon,8.24
+2025-11-02,Alphington,8.38
+2025-11-02,Box Hill,4.92
+2025-11-02,Brighton,10.59
+2025-11-02,Dandenong,7.83
+2025-11-02,Footscray,6.23
+2025-11-02,Geelong South,8.59
+2025-11-02,Macleod,5.06
+2025-11-02,Melbourne CBD,9.62
+2025-11-02,Melton,4.49
+2025-11-02,Traralgon,7.39
+2025-11-03,Alphington,4.75
+2025-11-03,Box Hill,1.37
+2025-11-03,Brighton,4.38
+2025-11-03,Dandenong,3.24
+2025-11-03,Footscray,2.38
+2025-11-03,Geelong South,1.92
+2025-11-03,Macleod,0.14
+2025-11-03,Melbourne CBD,4.07
+2025-11-03,Melton,0.86
+2025-11-03,Traralgon,4.33
+2025-11-04,Alphington,3.41
+2025-11-04,Box Hill,1.26
+2025-11-04,Brighton,3.52
+2025-11-04,Dandenong,2.72
+2025-11-04,Footscray,1.49
+2025-11-04,Geelong South,0.95
+2025-11-04,Macleod,0.7
+2025-11-04,Melbourne CBD,4.15
+2025-11-04,Melton,2.14
+2025-11-04,Traralgon,3.54
+2025-11-05,Alphington,5.33
+2025-11-05,Box Hill,1.07
+2025-11-05,Brighton,4.47
+2025-11-05,Dandenong,3.07
+2025-11-05,Footscray,2.48
+2025-11-05,Geelong South,2.54
+2025-11-05,Macleod,1.19
+2025-11-05,Melbourne CBD,4.12
+2025-11-05,Melton,1.43
+2025-11-05,Traralgon,3.81
+2025-11-06,Alphington,5.88
+2025-11-06,Box Hill,2.01
+2025-11-06,Brighton,7.57
+2025-11-06,Dandenong,4.13
+2025-11-06,Footscray,3.49
+2025-11-06,Geelong South,1.68
+2025-11-06,Macleod,2.1
+2025-11-06,Melbourne CBD,7.17
+2025-11-06,Melton,3.11
+2025-11-06,Traralgon,5.04
+2025-11-07,Alphington,6.52
+2025-11-07,Box Hill,2.3
+2025-11-07,Brighton,5.84
+2025-11-07,Dandenong,4.46
+2025-11-07,Footscray,4.29
+2025-11-07,Geelong South,3.35
+2025-11-07,Macleod,2.61
+2025-11-07,Melbourne CBD,6.39
+2025-11-07,Melton,2.15
+2025-11-07,Traralgon,8.03
+2025-11-08,Alphington,4.63
+2025-11-08,Box Hill,2.02
+2025-11-08,Brighton,5.86
+2025-11-08,Dandenong,3.95
+2025-11-08,Footscray,3.45
+2025-11-08,Geelong South,4.5
+2025-11-08,Macleod,1.9
+2025-11-08,Melbourne CBD,5.67
+2025-11-08,Melton,2.28
+2025-11-08,Traralgon,2.96
+2025-11-09,Alphington,5.49
+2025-11-09,Box Hill,1.61
+2025-11-09,Brighton,4.12
+2025-11-09,Dandenong,2.92
+2025-11-09,Footscray,2.09
+2025-11-09,Geelong South,1.62
+2025-11-09,Macleod,0.75
+2025-11-09,Melbourne CBD,5.29
+2025-11-09,Melton,0.93
+2025-11-09,Traralgon,2.67
+2025-11-10,Alphington,4.0
+2025-11-10,Box Hill,1.21
+2025-11-10,Brighton,3.42
+2025-11-10,Dandenong,2.56
+2025-11-10,Footscray,1.55
+2025-11-10,Geelong South,1.6
+2025-11-10,Macleod,0.45
+2025-11-10,Melbourne CBD,4.18
+2025-11-10,Melton,0.35
+2025-11-10,Traralgon,3.41
+2025-11-11,Alphington,4.93
+2025-11-11,Box Hill,0.72
+2025-11-11,Brighton,4.76
+2025-11-11,Dandenong,3.6
+2025-11-11,Footscray,2.99
+2025-11-11,Geelong South,2.03
+2025-11-11,Macleod,1.24
+2025-11-11,Melbourne CBD,6.0
+2025-11-11,Melton,1.21
+2025-11-11,Traralgon,4.22
+2025-11-12,Alphington,8.24
+2025-11-12,Box Hill,3.26
+2025-11-12,Brighton,8.58
+2025-11-12,Dandenong,5.34
+2025-11-12,Footscray,4.93
+2025-11-12,Geelong South,3.69
+2025-11-12,Macleod,3.36
+2025-11-12,Melbourne CBD,7.57
+2025-11-12,Melton,2.65
+2025-11-12,Traralgon,5.36
+2025-11-13,Alphington,5.92
+2025-11-13,Box Hill,3.11
+2025-11-13,Brighton,5.97
+2025-11-13,Dandenong,4.92
+2025-11-13,Footscray,4.68
+2025-11-13,Geelong South,3.68
+2025-11-13,Macleod,2.07
+2025-11-13,Melbourne CBD,6.84
+2025-11-13,Melton,5.12
+2025-11-13,Traralgon,6.41
+2025-11-14,Alphington,5.97
+2025-11-14,Box Hill,4.7
+2025-11-14,Brighton,9.12
+2025-11-14,Dandenong,5.8
+2025-11-14,Footscray,4.65
+2025-11-14,Geelong South,4.97
+2025-11-14,Macleod,4.32
+2025-11-14,Melbourne CBD,8.62
+2025-11-14,Melton,4.12
+2025-11-14,Traralgon,6.54
+2025-11-15,Alphington,6.71
+2025-11-15,Box Hill,3.81
+2025-11-15,Brighton,10.63
+2025-11-15,Dandenong,8.26
+2025-11-15,Footscray,6.04
+2025-11-15,Geelong South,8.02
+2025-11-15,Macleod,4.5
+2025-11-15,Melbourne CBD,9.53
+2025-11-15,Melton,5.11
+2025-11-15,Traralgon,6.77
+2025-11-16,Alphington,6.08
+2025-11-16,Box Hill,3.3
+2025-11-16,Brighton,7.25
+2025-11-16,Dandenong,6.68
+2025-11-16,Footscray,5.87
+2025-11-16,Geelong South,3.55
+2025-11-16,Macleod,3.33
+2025-11-16,Melbourne CBD,8.67
+2025-11-16,Melton,3.67
+2025-11-16,Traralgon,7.54
+2025-11-17,Alphington,3.67
+2025-11-17,Box Hill,1.46
+2025-11-17,Brighton,4.04
+2025-11-17,Dandenong,2.93
+2025-11-17,Footscray,2.12
+2025-11-17,Geelong South,2.04
+2025-11-17,Macleod,0.98
+2025-11-17,Melbourne CBD,5.12
+2025-11-17,Melton,2.88
+2025-11-17,Traralgon,5.09
+2025-11-18,Alphington,2.5
+2025-11-18,Box Hill,0.24
+2025-11-18,Brighton,3.47
+2025-11-18,Dandenong,2.81
+2025-11-18,Footscray,1.78
+2025-11-18,Geelong South,1.8
+2025-11-18,Macleod,0.18
+2025-11-18,Melbourne CBD,3.36
+2025-11-18,Melton,2.76
+2025-11-18,Traralgon,3.96
+2025-11-19,Alphington,4.56
+2025-11-19,Box Hill,2.78
+2025-11-19,Brighton,5.44
+2025-11-19,Dandenong,3.1
+2025-11-19,Footscray,3.61
+2025-11-19,Geelong South,2.87
+2025-11-19,Macleod,0.71
+2025-11-19,Melbourne CBD,6.77
+2025-11-19,Melton,1.79
+2025-11-19,Traralgon,4.84
+2025-11-20,Alphington,4.22
+2025-11-20,Box Hill,3.35
+2025-11-20,Brighton,5.57
+2025-11-20,Dandenong,4.22
+2025-11-20,Footscray,3.52
+2025-11-20,Geelong South,3.05
+2025-11-20,Macleod,3.29
+2025-11-20,Melbourne CBD,5.7
+2025-11-20,Melton,2.2
+2025-11-20,Traralgon,6.72
+2025-11-21,Alphington,5.24
+2025-11-21,Box Hill,3.24
+2025-11-21,Brighton,6.96
+2025-11-21,Dandenong,5.0
+2025-11-21,Footscray,4.77
+2025-11-21,Geelong South,3.79
+2025-11-21,Macleod,3.13
+2025-11-21,Melbourne CBD,5.97
+2025-11-21,Melton,3.51
+2025-11-21,Traralgon,4.98
+2025-11-22,Alphington,7.74
+2025-11-22,Box Hill,4.37
+2025-11-22,Brighton,9.24
+2025-11-22,Dandenong,6.27
+2025-11-22,Footscray,6.26
+2025-11-22,Geelong South,6.53
+2025-11-22,Macleod,3.57
+2025-11-22,Melbourne CBD,9.86
+2025-11-22,Melton,6.04
+2025-11-22,Traralgon,5.18
+2025-11-23,Alphington,6.04
+2025-11-23,Box Hill,3.13
+2025-11-23,Brighton,5.84
+2025-11-23,Dandenong,4.14
+2025-11-23,Footscray,4.15
+2025-11-23,Geelong South,4.66
+2025-11-23,Macleod,3.39
+2025-11-23,Melbourne CBD,7.99
+2025-11-23,Melton,4.19
+2025-11-23,Traralgon,3.92
+2025-11-24,Alphington,6.26
+2025-11-24,Box Hill,1.97
+2025-11-24,Brighton,4.29
+2025-11-24,Dandenong,3.33
+2025-11-24,Footscray,4.06
+2025-11-24,Geelong South,3.36
+2025-11-24,Macleod,3.48
+2025-11-24,Melbourne CBD,5.47
+2025-11-24,Melton,3.55
+2025-11-24,Traralgon,5.44
+2025-11-25,Alphington,5.13
+2025-11-25,Box Hill,2.84
+2025-11-25,Brighton,5.64
+2025-11-25,Dandenong,4.81
+2025-11-25,Footscray,5.92
+2025-11-25,Geelong South,4.18
+2025-11-25,Macleod,2.73
+2025-11-25,Melbourne CBD,7.57
+2025-11-25,Melton,2.71
+2025-11-25,Traralgon,5.88
+2025-11-26,Alphington,6.44
+2025-11-26,Box Hill,4.49
+2025-11-26,Brighton,6.05
+2025-11-26,Dandenong,5.66
+2025-11-26,Footscray,4.74
+2025-11-26,Geelong South,5.6
+2025-11-26,Macleod,2.78
+2025-11-26,Melbourne CBD,6.46
+2025-11-26,Melton,3.4
+2025-11-26,Traralgon,4.07
+2025-11-27,Alphington,4.24
+2025-11-27,Box Hill,2.41
+2025-11-27,Brighton,4.5
+2025-11-27,Dandenong,4.05
+2025-11-27,Footscray,3.3
+2025-11-27,Geelong South,0.91
+2025-11-27,Macleod,1.73
+2025-11-27,Melbourne CBD,5.45
+2025-11-27,Melton,2.08
+2025-11-27,Traralgon,4.89
+2025-11-28,Alphington,3.75
+2025-11-28,Box Hill,2.76
+2025-11-28,Brighton,5.81
+2025-11-28,Dandenong,3.23
+2025-11-28,Footscray,3.22
+2025-11-28,Geelong South,2.89
+2025-11-28,Macleod,1.94
+2025-11-28,Melbourne CBD,5.31
+2025-11-28,Melton,3.1
+2025-11-28,Traralgon,6.12
+2025-11-29,Alphington,4.2
+2025-11-29,Box Hill,2.16
+2025-11-29,Brighton,3.99
+2025-11-29,Dandenong,3.33
+2025-11-29,Footscray,2.72
+2025-11-29,Geelong South,3.68
+2025-11-29,Macleod,2.04
+2025-11-29,Melbourne CBD,5.53
+2025-11-29,Melton,1.82
+2025-11-29,Traralgon,4.14
+2025-11-30,Alphington,3.56
+2025-11-30,Box Hill,1.01
+2025-11-30,Brighton,4.25
+2025-11-30,Dandenong,1.58
+2025-11-30,Footscray,1.31
+2025-11-30,Geelong South,2.06
+2025-11-30,Macleod,1.61
+2025-11-30,Melbourne CBD,3.18
+2025-11-30,Melton,0.61
+2025-11-30,Traralgon,4.49
+2025-12-01,Alphington,2.68
+2025-12-01,Box Hill,1.93
+2025-12-01,Brighton,6.01
+2025-12-01,Dandenong,2.39
+2025-12-01,Footscray,2.8
+2025-12-01,Geelong South,2.72
+2025-12-01,Macleod,1.57
+2025-12-01,Melbourne CBD,4.96
+2025-12-01,Melton,1.89
+2025-12-01,Traralgon,4.84
+2025-12-02,Alphington,3.72
+2025-12-02,Box Hill,1.99
+2025-12-02,Brighton,4.68
+2025-12-02,Dandenong,2.96
+2025-12-02,Footscray,3.15
+2025-12-02,Geelong South,3.17
+2025-12-02,Macleod,2.15
+2025-12-02,Melbourne CBD,6.59
+2025-12-02,Melton,1.94
+2025-12-02,Traralgon,4.94
+2025-12-03,Alphington,6.16
+2025-12-03,Box Hill,4.28
+2025-12-03,Brighton,7.3
+2025-12-03,Dandenong,2.71
+2025-12-03,Footscray,4.43
+2025-12-03,Geelong South,3.64
+2025-12-03,Macleod,2.77
+2025-12-03,Melbourne CBD,6.62
+2025-12-03,Melton,3.18
+2025-12-03,Traralgon,5.44
+2025-12-04,Alphington,5.78
+2025-12-04,Box Hill,3.81
+2025-12-04,Brighton,7.15
+2025-12-04,Footscray,5.3
+2025-12-04,Geelong South,5.96
+2025-12-04,Macleod,2.0
+2025-12-04,Melbourne CBD,7.26
+2025-12-04,Melton,5.46
+2025-12-04,Traralgon,7.17
+2025-12-05,Alphington,10.58
+2025-12-05,Box Hill,8.9
+2025-12-05,Brighton,10.48
+2025-12-05,Footscray,9.36
+2025-12-05,Geelong South,8.64
+2025-12-05,Macleod,8.21
+2025-12-05,Melbourne CBD,13.22
+2025-12-05,Melton,6.79
+2025-12-05,Traralgon,10.42
+2025-12-06,Alphington,8.29
+2025-12-06,Box Hill,6.6
+2025-12-06,Brighton,9.82
+2025-12-06,Footscray,7.95
+2025-12-06,Geelong South,5.42
+2025-12-06,Macleod,5.79
+2025-12-06,Melbourne CBD,9.36
+2025-12-06,Traralgon,10.33
+2025-12-07,Alphington,4.88
+2025-12-07,Box Hill,3.82
+2025-12-07,Brighton,6.12
+2025-12-07,Footscray,4.57
+2025-12-07,Geelong South,3.18
+2025-12-07,Macleod,3.3
+2025-12-07,Melbourne CBD,6.05
+2025-12-07,Traralgon,5.59
+2025-12-08,Alphington,6.19
+2025-12-08,Box Hill,3.68
+2025-12-08,Brighton,7.3
+2025-12-08,Dandenong,6.19
+2025-12-08,Footscray,3.64
+2025-12-08,Geelong South,3.58
+2025-12-08,Macleod,3.42
+2025-12-08,Melbourne CBD,6.85
+2025-12-08,Traralgon,5.69
+2025-12-09,Alphington,6.53
+2025-12-09,Box Hill,5.32
+2025-12-09,Brighton,8.82
+2025-12-09,Dandenong,6.86
+2025-12-09,Footscray,5.91
+2025-12-09,Geelong South,6.36
+2025-12-09,Macleod,4.24
+2025-12-09,Melbourne CBD,8.81
+2025-12-09,Melton,5.35
+2025-12-09,Traralgon,6.65
+2025-12-10,Alphington,8.59
+2025-12-10,Box Hill,6.77
+2025-12-10,Brighton,9.49
+2025-12-10,Dandenong,9.37
+2025-12-10,Footscray,7.44
+2025-12-10,Geelong South,7.34
+2025-12-10,Macleod,6.46
+2025-12-10,Melbourne CBD,10.72
+2025-12-10,Melton,5.96
+2025-12-10,Traralgon,9.01
+2025-12-11,Alphington,8.21
+2025-12-11,Box Hill,5.57
+2025-12-11,Brighton,8.53
+2025-12-11,Dandenong,7.57
+2025-12-11,Footscray,6.47
+2025-12-11,Geelong South,5.89
+2025-12-11,Macleod,5.55
+2025-12-11,Melbourne CBD,10.31
+2025-12-11,Melton,5.21
+2025-12-11,Traralgon,7.72
+2025-12-12,Alphington,8.92
+2025-12-12,Box Hill,5.9
+2025-12-12,Brighton,10.47
+2025-12-12,Dandenong,7.57
+2025-12-12,Footscray,6.63
+2025-12-12,Geelong South,7.79
+2025-12-12,Macleod,5.15
+2025-12-12,Melbourne CBD,10.03
+2025-12-12,Melton,4.38
+2025-12-12,Traralgon,9.85
+2025-12-13,Alphington,7.93
+2025-12-13,Box Hill,7.12
+2025-12-13,Brighton,10.89
+2025-12-13,Dandenong,9.04
+2025-12-13,Footscray,8.72
+2025-12-13,Geelong South,11.13
+2025-12-13,Macleod,4.15
+2025-12-13,Melbourne CBD,11.1
+2025-12-13,Melton,8.54
+2025-12-13,Traralgon,9.12
+2025-12-14,Alphington,7.8
+2025-12-14,Box Hill,6.69
+2025-12-14,Brighton,9.34
+2025-12-14,Dandenong,8.22
+2025-12-14,Footscray,7.8
+2025-12-14,Geelong South,7.29
+2025-12-14,Macleod,6.63
+2025-12-14,Melbourne CBD,10.17
+2025-12-14,Melton,6.67
+2025-12-14,Traralgon,8.29
+2025-12-15,Alphington,6.56
+2025-12-15,Box Hill,5.68
+2025-12-15,Brighton,8.79
+2025-12-15,Dandenong,6.97
+2025-12-15,Footscray,6.68
+2025-12-15,Geelong South,8.31
+2025-12-15,Macleod,6.1
+2025-12-15,Melbourne CBD,10.07
+2025-12-15,Melton,6.62
+2025-12-15,Traralgon,8.3
+2025-12-16,Alphington,5.34
+2025-12-16,Box Hill,3.73
+2025-12-16,Brighton,5.15
+2025-12-16,Dandenong,5.75
+2025-12-16,Footscray,3.34
+2025-12-16,Geelong South,4.52
+2025-12-16,Macleod,2.58
+2025-12-16,Melbourne CBD,6.74
+2025-12-16,Melton,4.09
+2025-12-16,Traralgon,5.8
+2025-12-17,Alphington,7.65
+2025-12-17,Box Hill,5.35
+2025-12-17,Brighton,7.71
+2025-12-17,Dandenong,5.2
+2025-12-17,Footscray,6.32
+2025-12-17,Geelong South,7.14
+2025-12-17,Macleod,5.34
+2025-12-17,Melbourne CBD,10.69
+2025-12-17,Melton,3.96
+2025-12-17,Traralgon,5.82
+2025-12-18,Alphington,9.17
+2025-12-18,Box Hill,7.69
+2025-12-18,Brighton,11.02
+2025-12-18,Dandenong,8.66
+2025-12-18,Footscray,7.29
+2025-12-18,Geelong South,8.67
+2025-12-18,Macleod,4.96
+2025-12-18,Melbourne CBD,10.12
+2025-12-18,Melton,5.76
+2025-12-19,Alphington,9.54
+2025-12-19,Box Hill,5.91
+2025-12-19,Brighton,8.38
+2025-12-19,Dandenong,7.43
+2025-12-19,Footscray,9.17
+2025-12-19,Geelong South,9.87
+2025-12-19,Macleod,5.37
+2025-12-19,Melbourne CBD,10.77
+2025-12-19,Melton,7.38
+2025-12-20,Alphington,6.82
+2025-12-20,Box Hill,4.56
+2025-12-20,Brighton,6.01
+2025-12-20,Dandenong,5.23
+2025-12-20,Footscray,5.28
+2025-12-20,Geelong South,3.43
+2025-12-20,Macleod,5.14
+2025-12-20,Melbourne CBD,8.87
+2025-12-20,Melton,5.4
+2025-12-21,Alphington,5.52
+2025-12-21,Box Hill,2.58
+2025-12-21,Brighton,5.34
+2025-12-21,Dandenong,4.56
+2025-12-21,Footscray,3.19
+2025-12-21,Geelong South,3.24
+2025-12-21,Macleod,2.75
+2025-12-21,Melbourne CBD,7.46
+2025-12-21,Melton,3.03
+2025-12-22,Alphington,4.04
+2025-12-22,Box Hill,1.17
+2025-12-22,Brighton,3.84
+2025-12-22,Dandenong,2.68
+2025-12-22,Footscray,3.18
+2025-12-22,Geelong South,2.48
+2025-12-22,Macleod,1.82
+2025-12-22,Melbourne CBD,4.98
+2025-12-22,Melton,2.31
+2025-12-22,Traralgon,5.96
+2025-12-23,Alphington,5.75
+2025-12-23,Box Hill,3.43
+2025-12-23,Brighton,6.66
+2025-12-23,Dandenong,5.84
+2025-12-23,Footscray,4.55
+2025-12-23,Geelong South,3.84
+2025-12-23,Macleod,4.11
+2025-12-23,Melbourne CBD,8.31
+2025-12-23,Melton,3.65
+2025-12-23,Traralgon,5.96
+2025-12-24,Alphington,7.01
+2025-12-24,Box Hill,4.8
+2025-12-24,Brighton,9.95
+2025-12-24,Dandenong,5.54
+2025-12-24,Footscray,6.69
+2025-12-24,Geelong South,5.59
+2025-12-24,Macleod,4.93
+2025-12-24,Melbourne CBD,9.15
+2025-12-24,Melton,4.99
+2025-12-24,Traralgon,7.48
+2025-12-25,Alphington,6.98
+2025-12-25,Box Hill,4.84
+2025-12-25,Brighton,7.73
+2025-12-25,Dandenong,5.87
+2025-12-25,Footscray,5.74
+2025-12-25,Geelong South,6.4
+2025-12-25,Macleod,4.39
+2025-12-25,Melbourne CBD,8.27
+2025-12-25,Melton,5.21
+2025-12-25,Traralgon,6.81
+2025-12-26,Alphington,5.63
+2025-12-26,Box Hill,3.86
+2025-12-26,Brighton,6.55
+2025-12-26,Dandenong,4.83
+2025-12-26,Footscray,4.09
+2025-12-26,Geelong South,4.97
+2025-12-26,Macleod,3.1
+2025-12-26,Melbourne CBD,6.91
+2025-12-26,Melton,3.81
+2025-12-26,Traralgon,5.76
+2025-12-27,Alphington,6.71
+2025-12-27,Box Hill,4.37
+2025-12-27,Brighton,8.13
+2025-12-27,Dandenong,5.35
+2025-12-27,Footscray,4.43
+2025-12-27,Geelong South,5.41
+2025-12-27,Macleod,5.1
+2025-12-27,Melbourne CBD,7.82
+2025-12-27,Melton,4.32
+2025-12-27,Traralgon,5.65
+2025-12-28,Alphington,6.68
+2025-12-28,Box Hill,4.02
+2025-12-28,Brighton,7.19
+2025-12-28,Dandenong,4.26
+2025-12-28,Footscray,4.84
+2025-12-28,Geelong South,5.19
+2025-12-28,Macleod,4.0
+2025-12-28,Melbourne CBD,8.73
+2025-12-28,Melton,4.11
+2025-12-28,Traralgon,5.25
+2025-12-29,Alphington,6.94
+2025-12-29,Box Hill,5.93
+2025-12-29,Brighton,8.4
+2025-12-29,Dandenong,6.47
+2025-12-29,Footscray,5.81
+2025-12-29,Geelong South,8.01
+2025-12-29,Macleod,4.41
+2025-12-29,Melbourne CBD,7.84
+2025-12-29,Melton,3.79
+2025-12-29,Traralgon,5.34
+2025-12-30,Alphington,7.98
+2025-12-30,Box Hill,6.78
+2025-12-30,Brighton,9.74
+2025-12-30,Dandenong,7.97
+2025-12-30,Footscray,9.3
+2025-12-30,Geelong South,9.07
+2025-12-30,Macleod,6.71
+2025-12-30,Melbourne CBD,11.05
+2025-12-30,Melton,8.5
+2025-12-30,Traralgon,8.0
+2025-12-31,Alphington,6.4
+2025-12-31,Box Hill,4.4
+2025-12-31,Brighton,8.79
+2025-12-31,Dandenong,6.31
+2025-12-31,Footscray,5.46
+2025-12-31,Geelong South,5.52
+2025-12-31,Macleod,4.93
+2025-12-31,Melbourne CBD,9.57
+2025-12-31,Melton,4.71
+2025-12-31,Traralgon,7.11
+2026-01-01,Alphington,6.87
+2026-01-01,Box Hill,4.71
+2026-01-01,Brighton,10.23
+2026-01-01,Dandenong,6.07
+2026-01-01,Footscray,5.87
+2026-01-01,Geelong South,4.15
+2026-01-01,Macleod,5.11
+2026-01-01,Melbourne CBD,9.72
+2026-01-01,Melton,6.0
+2026-01-01,Traralgon,6.69
