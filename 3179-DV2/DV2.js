@@ -1,4 +1,4 @@
-var vg_1 = "3179-DV2/PM25_overview.json";
+var vg_1 = "3179-DV2/pm25_overview.json";
 var vg_2 = "3179-DV2/pm25_map.json";
 var vg_3 = "3179-DV2/pm25_lollipop.json";
 var vg_4 = "3179-DV2/airqual_deaths.json"
