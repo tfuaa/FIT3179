@@ -1,13 +1,13 @@
-var vg_1 = "PM25_overview.json";
-var vg_2 = "pm25_map.json";
-var vg_3 = "pm25_lollipop.json";
-var vg_4 = "airqual_deaths.json"
-var vg_5 = "heatmap.json"
-var vg_6 = "airqual_deaths_scatter.json"
-var vg_7 = "pm25_calheatmap.json"
-var vg_8 = "airqual_cities.json"
-var vg_9 = "airqual_dotplot.json"
-var vg_0 = "airqual_bestworst.json"
+var vg_1 = "3179-DV2/PM25_overview.json";
+var vg_2 = "3179-DV2/pm25_map.json";
+var vg_3 = "3179-DV2/pm25_lollipop.json";
+var vg_4 = "3179-DV2/airqual_deaths.json"
+var vg_5 = "3179-DV2/heatmap.json"
+var vg_6 = "3179-DV2/airqual_deaths_scatter.json"
+var vg_7 = "3179-DV2/pm25_calheatmap.json"
+var vg_8 = "3179-DV2/airqual_cities.json"
+var vg_9 = "3179-DV2/airqual_dotplot.json"
+var vg_0 = "3179-DV2/airqual_bestworst.json"
 
 
 vegaEmbed("#line_chart", vg_1).then(function(result) {
