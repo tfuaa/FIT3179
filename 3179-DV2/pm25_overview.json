@@ -1,0 +1,91 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+
+  "title": "PM2.5 overview + detail with brushing",
+
+
+  "data": {
+    "url": "https://raw.githubusercontent.com/tfuaa/FIT3179/refs/heads/main/pm25_daily.csv",
+    "format": { "type": "csv", "parse": { "date": "date:'%Y-%m-%d'", "pm25": "number" } }
+  },
+
+  "background": "transparent",
+
+
+  "params": [
+    {
+      "name": "site",
+      "value": "Alphington",
+      "bind": {
+        "input": "select",
+        "name": "Site: ",
+        "options": [
+          "Alphington", "Box Hill", "Brighton", "Dandenong", "Footscray",
+          "Geelong South", "Macleod", "Melbourne CBD", "Melton", "Traralgon"
+        ]
+      }
+    }
+  ],
+
+
+  "transform": [
+    { "filter": "datum.site === site" }
+  ],
+
+
+  "vconcat": [
+    {
+      "name": "detail",
+      "height": 300,
+      "width": 640,
+      "title": "Daily mean PM2.5 (detail): drag on the chart below to zoom",
+      "mark": { "type": "line", "clip": true, "point": { "size": 20, "color": "orangered"}, "color": "orangered" },
+      "encoding": {
+        "x": {
+          "field": "date",
+          "type": "temporal",
+          "title": null,
+          "scale": { "domain": { "param": "brush" } },
+          "axis": { "format": "%d %b %Y" }
+        },
+        "y": {
+          "field": "pm25",
+          "type": "quantitative",
+          "title": "PM2.5 (µg/m³)"
+        },
+        "tooltip": [
+          { "field": "date", "type": "temporal", "title": "Date", "format": "%d %b %Y" },
+          { "field": "site", "type": "nominal", "title": "Site" },
+          { "field": "pm25", "type": "quantitative", "title": "PM2.5 (µg/m³)", "format": ".1f" }
+        ]
+      }
+    },
+    {
+      "name": "Overview",
+      "height": 60,
+      "width": 640,
+      "title": "Overview (brush to select a time period)",
+      "params": [
+        {
+          "name": "brush",
+          "select": { "type": "interval", "encodings": ["x"] }
+        }
+      ],
+      "mark": {"type":"line", "color": "orangered"},
+      "encoding": {
+        "x": {
+          "field": "date",
+          "type": "temporal",
+          "title": "Date",
+          "axis": { "format": "%b %Y" }
+        },
+        "y": {
+          "field": "pm25",
+          "type": "quantitative",
+          "title": null,
+          "axis": { "tickCount": 3 }
+        }
+      }
+    }
+  ]
+}

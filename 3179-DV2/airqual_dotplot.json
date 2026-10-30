@@ -1,0 +1,193 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Change in city PM2.5 by country, 2024 to 2025",
+    "subtitle": [
+      "Median annual PM2.5 across a country’s monitored cities",
+      "Dashed line = WHO 2021 annual guideline (5 µg/m³)"
+    ]
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/tfuaa/FIT3179/refs/heads/main/who_air_quality_2024_2025.csv",
+    "format": {
+      "type": "csv"
+    }
+  },
+  "width": 590,
+  "height": {
+    "step": 40
+  },
+  "transform": [
+    {
+      "filter": "isValid(datum.pm25_concentration) && datum.pm25_concentration >= 0.5 && datum.pm25_concentration <= 1000"
+    },
+    {
+      "aggregate": [
+        {
+          "op": "median",
+          "field": "pm25_concentration",
+          "as": "median_pm25"
+        },
+        {
+          "op": "distinct",
+          "field": "city",
+          "as": "cities"
+        }
+      ],
+      "groupby": [
+        "iso3",
+        "country_name",
+        "year"
+      ]
+    },
+    {
+      "filter": "datum.cities >= 3"
+    },
+    {
+      "joinaggregate": [
+        {
+          "op": "count",
+          "as": "n_years"
+        }
+      ],
+      "groupby": [
+        "iso3"
+      ]
+    },
+    {
+      "filter": "datum.n_years === 2"
+    },
+    {
+      "calculate": "'' + datum.year",
+      "as": "year_label"
+    }
+  ],
+  "layer": [
+    {
+      "mark": {
+        "type": "rule",
+        "strokeWidth": 2,
+        "color": "#8a8f98",
+        "opacity": 0.8
+      },
+      "encoding": {
+        "y": {
+          "field": "country_name",
+          "type": "nominal",
+          "title": null,
+          "sort": {
+            "field": "median_pm25",
+            "op": "mean",
+            "order": "descending"
+          },
+          "axis": {
+            "labelFontSize": 12
+          }
+        },
+        "x": {
+          "aggregate": "min",
+          "field": "median_pm25",
+          "type": "quantitative",
+          "title": "Median PM2.5 (µg/m³)",
+          "scale": {
+            "zero": true
+          }
+        },
+        "x2": {
+          "aggregate": "max",
+          "field": "median_pm25"
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "circle",
+        "size": 130,
+        "opacity": 1
+      },
+      "encoding": {
+        "y": {
+          "field": "country_name",
+          "type": "nominal",
+          "title": null,
+          "sort": {
+            "field": "median_pm25",
+            "op": "mean",
+            "order": "descending"
+          },
+          "axis": {
+            "labelFontSize": 12
+          }
+        },
+        "x": {
+          "field": "median_pm25",
+          "type": "quantitative"
+        },
+        "color": {
+          "field": "year_label",
+          "type": "nominal",
+          "title": "Year",
+          "scale": {
+            "domain": [
+              "2024",
+              "2025"
+            ],
+            "range": [
+              "grey",
+              "orangered"
+            ]
+          },
+          "legend": {
+            "orient": "bottom-right"
+          }
+        },
+        "tooltip": [
+          {
+            "field": "country_name",
+            "title": "Country"
+          },
+          {
+            "field": "year_label",
+            "title": "Year"
+          },
+          {
+            "field": "median_pm25",
+            "type": "quantitative",
+            "title": "Median PM2.5 (µg/m³)",
+            "format": ".1f"
+          },
+          {
+            "field": "cities",
+            "type": "quantitative",
+            "title": "Cities"
+          }
+        ]
+      }
+    },
+    {
+      "data": {
+        "values": [
+          {
+            "g": 5
+          }
+        ]
+      },
+      "transform": [],
+      "mark": {
+        "type": "rule",
+        "strokeDash": [
+          4,
+          3
+        ],
+        "strokeWidth": 1.5,
+        "color": "#2a9d8f"
+      },
+      "encoding": {
+        "x": {
+          "field": "g",
+          "type": "quantitative"
+        }
+      }
+    }
+  ]
+}

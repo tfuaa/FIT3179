@@ -1,0 +1,247 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Best and worst 5 cities by PM10 pollution, 2024–2025",
+    "subtitle": [
+      "Annual mean PM10 per city; dashed line = WHO 2021 annual guideline (15 µg/m³)"
+    ]
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/tfuaa/FIT3179/refs/heads/main/who_air_quality_2024_2025.csv",
+    "format": {
+      "type": "csv"
+    }
+  },
+  "transform": [
+    {
+      "fold": [
+        "pm25_concentration",
+        "pm10_concentration",
+        "no2_concentration"
+      ],
+      "as": [
+        "pollutant_raw",
+        "value"
+      ]
+    },
+    {
+      "filter": "isValid(datum.value) && datum.value >= 0.5 && datum.value <= 1000"
+    },
+    {
+      "calculate": "datum.pollutant_raw === 'pm25_concentration' ? 'PM2.5' : datum.pollutant_raw === 'pm10_concentration' ? 'PM10' : 'NO2'",
+      "as": "pollutant"
+    },
+    {
+      "filter": "datum.pollutant === 'PM10'"
+    },
+    {
+      "joinaggregate": [
+        {
+          "op": "max",
+          "field": "year",
+          "as": "latest"
+        }
+      ],
+      "groupby": [
+        "iso3",
+        "city"
+      ]
+    },
+    {
+      "filter": "datum.year === datum.latest"
+    },
+    {
+      "window": [
+        {
+          "op": "row_number",
+          "as": "rank_worst"
+        }
+      ],
+      "sort": [
+        {
+          "field": "value",
+          "order": "descending"
+        }
+      ]
+    },
+    {
+      "window": [
+        {
+          "op": "row_number",
+          "as": "rank_best"
+        }
+      ],
+      "sort": [
+        {
+          "field": "value",
+          "order": "ascending"
+        }
+      ]
+    },
+    {
+      "filter": "datum.rank_worst <= 5 || datum.rank_best <= 5"
+    },
+    {
+      "calculate": "datum.rank_worst <= 5 ? 'Worst 5' : 'Best 5'",
+      "as": "group"
+    },
+    {
+      "calculate": "datum.rank_worst <= 5 ? datum.rank_worst : datum.rank_best",
+      "as": "pos"
+    },
+    {
+      "calculate": "datum.city + ', ' + datum.country_name",
+      "as": "label"
+    },
+    {
+      "calculate": "datum.pollutant === 'PM2.5' ? 5 : datum.pollutant === 'PM10' ? 15 : 10",
+      "as": "guideline"
+    },
+    {
+      "calculate": "datum.value / datum.guideline",
+      "as": "ratio_calc"
+    }
+  ],
+  "facet": {
+    "row": {
+      "field": "group",
+      "type": "nominal",
+      "title": null,
+      "sort": [
+        "Worst 5",
+        "Best 5"
+      ],
+      "header": {
+        "labelAngle": 0,
+        "labelAlign": "left",
+        "labelFontSize": 14,
+        "labelFontWeight": "bold"
+      }
+    }
+  },
+  "spec": {
+    "width": 500,
+    "height": 150,
+    "encoding": {
+      "y": {
+        "field": "label",
+        "type": "nominal",
+        "title": null,
+        "sort": {
+          "field": "pos",
+          "op": "min",
+          "order": "ascending"
+        },
+        "axis": {
+          "labelLimit": 340
+        }
+      }
+    },
+    "layer": [
+      {
+        "mark": {
+          "type": "bar"
+        },
+        "encoding": {
+          "x": {
+            "field": "value",
+            "type": "quantitative",
+            "title": "Annual mean PM10 (µg/m³)"
+          },
+          "color": {
+            "field": "group",
+            "type": "nominal",
+            "legend": null,
+            "scale": {
+              "domain": [
+                "Worst 5",
+                "Best 5"
+              ],
+              "range": [
+                "#d73027",
+                "#2a9d8f"
+              ]
+            }
+          },
+          "tooltip": [
+            {
+              "field": "city",
+              "title": "City"
+            },
+            {
+              "field": "country_name",
+              "title": "Country"
+            },
+            {
+              "field": "pollutant",
+              "title": "Pollutant"
+            },
+            {
+              "field": "value",
+              "type": "quantitative",
+              "title": "Annual mean (µg/m³)",
+              "format": ".1f"
+            },
+            {
+              "field": "ratio_calc",
+              "type": "quantitative",
+              "title": "× WHO guideline",
+              "format": ".1f"
+            },
+            {
+              "field": "year",
+              "type": "ordinal",
+              "title": "Year"
+            }
+          ]
+        }
+      },
+      {
+        "mark": {
+          "type": "text",
+          "align": "left",
+          "dx": 4,
+          "fontSize": 11
+        },
+        "encoding": {
+          "x": {
+            "field": "value",
+            "type": "quantitative"
+          },
+          "text": {
+            "field": "value",
+            "type": "quantitative",
+            "format": ".1f"
+          }
+        }
+      },
+      {
+        "mark": {
+          "type": "rule",
+          "strokeDash": [
+            4,
+            3
+          ],
+          "strokeWidth": 1.5
+        },
+        "encoding": {
+          "x": {
+            "field": "guideline",
+            "type": "quantitative"
+          }
+        }
+      }
+    ]
+  },
+  "resolve": {
+    "scale": {
+      "y": "independent"
+    }
+  },
+  "padding": {
+    "left": 5,
+    "right": 45,
+    "top": 5,
+    "bottom": 5
+  }
+}

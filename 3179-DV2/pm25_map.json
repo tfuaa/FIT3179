@@ -1,0 +1,39 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+
+  "title": "Air quality map by site",
+
+  "data": {
+    "url": "https://raw.githubusercontent.com/tfuaa/FIT3179/refs/heads/main/airquality_site.csv"
+  },
+  "height": 400,
+  "width": 600,
+  "background": "transparent",
+  "projection": {"type": "mercator", "center": [145, -37.8], "scale": 20000},
+
+  "layer": [{
+    "data": {"url": "https://raw.githubusercontent.com/tfuaa/FIT3179/refs/heads/main/ckan_b90c2a19_d978_4e14_bb15_1114b46464fb.json",
+    "format": {"type": "json", "property": "features"}
+},
+    "mark": {"type": "geoshape", "fill": "lightgray", "stroke": "white", "strokeWidth": 0.5, "opacity": 0.8}
+},
+{
+    "mark": { "type": "circle", "stroke": "white", "color": "orangered"},
+      "encoding": {
+        "longitude": { "field": "lon", "type": "quantitative" },
+        "latitude": { "field": "lat", "type": "quantitative" },
+        "size": {
+            "field": "p95",
+            "type": "quantitative",
+            "title": "Air quality",
+            "scale": {"domain": [4, 8]}
+        }
+      }
+}
+
+]
+
+
+  
+
+}

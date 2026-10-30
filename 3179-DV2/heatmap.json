@@ -1,0 +1,77 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Mean daily PM2.5 by site and month",
+  "width": 480,
+  "height": 300,
+  "background": "transparent",
+  "data": {
+    "url": "https://raw.githubusercontent.com/tfuaa/FIT3179/refs/heads/main/pm25_daily.csv",
+    "format": {
+      "type": "csv",
+      "parse": {
+        "date": "date:'%Y-%m-%d'",
+        "pm25": "number"
+      }
+    }
+  },
+  "transform": [
+    {
+      "filter": "year(datum.date) == 2025"
+    }
+  ],
+  "mark": {
+    "type": "rect",
+    "tooltip": true
+  },
+  "encoding": {
+    "x": {
+      "field": "date",
+      "type": "ordinal",
+      "timeUnit": "month",
+      "title": "Month (2025)",
+      "axis": {
+        "labelAngle": 0
+      }
+    },
+    "y": {
+      "field": "site",
+      "type": "nominal",
+      "title": "Site"
+    },
+    "color": {
+      "aggregate": "mean",
+      "field": "pm25",
+      "type": "quantitative",
+      "title": "Mean PM2.5 (µg/m³)",
+      "scale": {
+        "scheme": "yelloworangered"
+      }
+    },
+    "tooltip": [
+      {
+        "field": "site",
+        "type": "nominal",
+        "title": "Site"
+      },
+      {
+        "field": "date",
+        "type": "temporal",
+        "timeUnit": "month",
+        "title": "Month"
+      },
+      {
+        "aggregate": "mean",
+        "field": "pm25",
+        "type": "quantitative",
+        "title": "Mean PM2.5",
+        "format": ".2f"
+      },
+      {
+        "aggregate": "count",
+        "field": "pm25",
+        "type": "quantitative",
+        "title": "Observations"
+      }
+    ]
+  }
+}

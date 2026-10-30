@@ -1,0 +1,162 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Daily mean PM2.5 across all sites, January–February 2025",
+  "background": "transparent",
+  "data": {
+    "url": "pm25_daily.csv",
+    "format": {
+      "type": "csv",
+      "parse": {
+        "date": "date:'%Y-%m-%d'",
+        "pm25": "number"
+      }
+    }
+  },
+  "transform": [
+    {
+      "filter": "datum.date >= datetime(2025, 0, 1) && datum.date < datetime(2025, 2, 1)"
+    },
+    {
+      "aggregate": [
+        {
+          "op": "mean",
+          "field": "pm25",
+          "as": "mean_pm25"
+        },
+        {
+          "op": "count",
+          "field": "pm25",
+          "as": "n"
+        }
+      ],
+      "groupby": [
+        "date"
+      ]
+    },
+    {
+      "calculate": "(day(datum.date) + 6) % 7",
+      "as": "weekday"
+    },
+    {
+      "calculate": "((day(datum.date) + 6) % 7 - (date(datum.date) - 1) % 7 + 7) % 7",
+      "as": "first_weekday"
+    },
+    {
+      "calculate": "floor((date(datum.date) - 1 + datum.first_weekday) / 7)",
+      "as": "week_row"
+    },
+    {
+      "calculate": "timeFormat(datum.date, '%B %Y')",
+      "as": "month_label"
+    },
+    {
+      "calculate": "date(datum.date)",
+      "as": "day_num"
+    }
+  ],
+  "facet": {
+    "column": {
+      "field": "month_label",
+      "type": "ordinal",
+      "title": null,
+      "sort": {
+        "field": "date",
+        "op": "min"
+      },
+      "header": {
+        "labelFontSize": 14,
+        "labelFontWeight": "bold"
+      }
+    }
+  },
+  "spec": {
+    "width": 280,
+    "height": 220,
+    "layer": [
+      {
+        "mark": {
+          "type": "rect",
+          "stroke": "white",
+          "strokeWidth": 2,
+          "tooltip": true
+        },
+        "encoding": {
+          "x": {
+            "field": "weekday",
+            "type": "ordinal",
+            "title": null,
+            "axis": {
+              "orient": "top",
+              "labelAngle": 0,
+              "labelExpr": "['Mon','Tue','Wed','Thu','Fri','Sat','Sun'][datum.value]"
+            }
+          },
+          "y": {
+            "field": "week_row",
+            "type": "ordinal",
+            "axis": null
+          },
+          "color": {
+            "field": "mean_pm25",
+            "type": "quantitative",
+            "title": "Mean PM2.5 (µg/m³)",
+            "scale": {
+              "scheme": "yelloworangered"
+            }
+          },
+          "tooltip": [
+            {
+              "field": "date",
+              "type": "temporal",
+              "title": "Date",
+              "format": "%a %d %b %Y"
+            },
+            {
+              "field": "mean_pm25",
+              "type": "quantitative",
+              "title": "Mean PM2.5",
+              "format": ".2f"
+            },
+            {
+              "field": "n",
+              "type": "quantitative",
+              "title": "Sites reporting"
+            }
+          ]
+        }
+      },
+      {
+        "mark": {
+          "type": "text",
+          "fontSize": 10
+        },
+        "encoding": {
+          "x": {
+            "field": "weekday",
+            "type": "ordinal"
+          },
+          "y": {
+            "field": "week_row",
+            "type": "ordinal"
+          },
+          "text": {
+            "field": "day_num",
+            "type": "quantitative"
+          },
+          "color": {
+            "condition": {
+              "test": "datum.mean_pm25 > 9",
+              "value": "white"
+            },
+            "value": "#333"
+          }
+        }
+      }
+    ]
+  },
+  "resolve": {
+    "scale": {
+      "color": "shared"
+    }
+  }
+}

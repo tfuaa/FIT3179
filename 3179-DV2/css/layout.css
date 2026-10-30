@@ -1,0 +1,363 @@
+
+:root {
+    --ink: #1d2328;
+    --muted: #55606b;
+    --rule: #d9dee2;
+    --band: #f1f4f5;
+    --accent: #9b1c1c;      /* dark end of the pollution colour ramp */
+    --teal: #2a9d8f;        /* "meets the guideline" colour used in the maps */
+    --focus: #1b6ca8;
+ 
+    --serif: "Source Serif 4", Georgia, "Times New Roman", serif;
+    --sans: "Source Sans 3", "Helvetica Neue", Arial, sans-serif;
+ 
+    --text-w: 44rem;        /* reading column (~70 characters) */
+    --wide-w: 62rem;        /* maximum width for charts */
+}
+ 
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+ 
+html {
+    -webkit-text-size-adjust: 100%;
+}
+ 
+body {
+    margin: 0;
+    background: #fff;
+    color: var(--ink);
+    font-family: var(--serif);
+    font-size: 1.125rem;
+    line-height: 1.65;
+    -webkit-font-smoothing: antialiased;
+}
+ 
+.container {
+    width: 100%;
+    max-width: var(--wide-w);
+    margin: 0 auto;
+    padding: 0 1.5rem;
+}
+ 
+/* ---------- Reading column: all text sits in a centred, narrower measure ---------- */
+.masthead > *,
+.container :is(h2, h3, p, .keyfacts, ul) {
+    max-width: var(--text-w);
+    margin-left: 0;
+    margin-right: auto;
+}
+ 
+/* ---------- Masthead ---------- */
+.masthead {
+    width: 100%;
+    max-width: var(--wide-w);
+    margin: 0 auto;
+    padding: 4rem 1.5rem 1rem;
+}
+ 
+.masthead h1 {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-family: var(--sans);
+    font-size: clamp(2.1rem, 5vw, 3.2rem);
+    font-weight: 700;
+    line-height: 1.1;
+    letter-spacing: -0.015em;
+}
+ 
+.dek {
+    margin-top: 0;
+    margin-bottom: 1.5rem;
+    font-size: 1.3rem;
+    line-height: 1.55;
+    color: var(--muted);
+}
+ 
+/* One colour-ramp rule under the dek, echoing the "times over the WHO guideline" legend */
+.dek::after {
+    content: "";
+    display: block;
+    height: 6px;
+    margin-top: 1.75rem;
+    background: linear-gradient(90deg,
+            #2a9d8f 0 16%,
+            #ffe08a 16% 32%,
+            #fdae61 32% 52%,
+            #f46d43 52% 72%,
+            #d73027 72% 88%,
+            #7f0000 88% 100%);
+}
+ 
+/* Key terms */
+.keyfacts {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.25rem;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: var(--sans);
+    font-size: 0.95rem;
+    line-height: 1.45;
+}
+ 
+.keyfacts div {
+    margin: 0;
+}
+ 
+.keyfacts dt {
+    font-weight: 700;
+}
+ 
+.keyfacts dd {
+    margin: 0.15rem 0 0;
+    color: var(--muted);
+}
+ 
+/* ---------- Parts (the two halves of the story) ---------- */
+.part {
+    padding: 3rem 0 1rem;
+}
+ 
+.part--zoom {
+    margin-top: 3rem;
+    padding: 3.5rem 0 3rem;
+    background: var(--band);
+}
+ 
+.part--close {
+    padding: 3.5rem 0 3rem;
+}
+ 
+.container h2 {
+    margin-top: 0;
+    margin-bottom: 0.75rem;
+    font-family: var(--sans);
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: -0.01em;
+}
+ 
+.intro {
+    margin-top: 0;
+    margin-bottom: 2.5rem;
+    font-size: 1.2rem;
+    color: var(--muted);
+}
+ 
+/* ---------- Stories (one chart + its explanation) ---------- */
+.story {
+    margin-top: 3rem;
+    padding-top: 2.5rem;
+    border-top: 1px solid var(--rule);
+}
+ 
+.intro + .story {
+    margin-top: 0;
+    padding-top: 0;
+    border-top: 0;
+}
+ 
+.part--zoom .story {
+    border-top-color: #cfd6da;
+}
+ 
+.container h3 {
+    margin-top: 0;
+    margin-bottom: 1.1rem;
+    font-family: var(--sans);
+    font-size: 1.45rem;
+    font-weight: 600;
+    line-height: 1.25;
+}
+ 
+.container p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    text-wrap: pretty;
+}
+ 
+/* Interaction / reading notes under a chart */
+.container p.hint {
+    padding-left: 0.8rem;
+    border-left: 3px solid var(--teal);
+    font-family: var(--sans);
+    font-size: 0.95rem;
+    line-height: 1.45;
+    color: var(--muted);
+}
+ 
+/* ---------- Charts ---------- */
+.chart {
+    min-width: 0;
+    max-width: 100%;
+    margin: 0 0 1.5rem;
+    overflow-x: auto;                 /* wide charts scroll instead of breaking the page on phones */
+}
+ 
+.chart .vega-embed {
+    display: block;
+    width: fit-content;
+    margin: 0;
+    padding: 0.75rem 2.4rem 0.75rem 0;        /* no left padding, so the chart lines up with the text; right padding leaves room for the "..." button */
+    background: #fff;
+}
+ 
+/* Two charts side by side (Melbourne map + monthly lollipop) */
+.figure-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 1.25rem;
+    margin: 0 0 1.5rem;
+}
+ 
+.figure-row .chart {
+    margin: 0;
+}
+ 
+/* ---------- Chart controls (Vega-Embed bindings: dropdowns and sliders) ---------- */
+.vega-bindings {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.5rem 1.5rem;
+    margin-top: 0.6rem;
+    padding-top: 0.6rem;
+    border-top: 1px solid var(--rule);
+    font-family: var(--sans);
+    font-size: 0.95rem;
+}
+ 
+.vega-bind label {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.6rem;
+}
+ 
+.vega-bind-name {
+    font-weight: 600;
+}
+ 
+.vega-bindings select {
+    padding: 0.3rem 0.5rem;
+    border: 1px solid #aeb7be;
+    border-radius: 4px;
+    background: #fff;
+    color: var(--ink);
+    font: inherit;
+}
+ 
+.vega-bindings input[type="range"] {
+    accent-color: var(--accent);
+}
+
+ 
+/* ---------- Footer ---------- */
+.sources {
+    margin-top: 2rem;
+    padding: 2.5rem 0 3.5rem;
+    border-top: 1px solid var(--rule);
+    font-family: var(--sans);
+    font-size: 0.9rem;
+    line-height: 1.5;
+    color: var(--muted);
+}
+ 
+.sources h2 {
+    font-size: 1.1rem !important;
+}
+ 
+.sources ul {
+    padding-left: 1.2rem;
+}
+ 
+.sources .meta {
+    margin-top: 1rem;
+}
+ 
+a {
+    color: var(--accent);
+    text-underline-offset: 2px;
+    overflow-wrap: anywhere;
+}
+ 
+/* ---------- Accessibility ---------- */
+a:focus-visible,
+select:focus-visible,
+input:focus-visible {
+    outline: 3px solid var(--focus);
+    outline-offset: 2px;
+}
+ 
+/* ---------- Small screens ---------- */
+@media (max-width: 640px) {
+    body {
+        font-size: 1.0625rem;
+    }
+ 
+    .container {
+        padding: 0 1rem;
+    }
+ 
+    .masthead {
+        padding: 2.5rem 1rem 0.5rem;
+    }
+ 
+    .keyfacts {
+        grid-template-columns: 1fr;
+        gap: 0.75rem;
+    }
+ 
+    .container h2 {
+        font-size: 1.6rem;
+    }
+ 
+    .container h3 {
+        font-size: 1.25rem;
+    }
+}
+ 
+/* ---------- Printing / saving as PDF ---------- */
+@page {
+    size: A4;
+    margin: 14mm;
+}
+ 
+@media print {
+    * {
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+    }
+ 
+    body {
+        font-size: 10.5pt;
+    }
+ 
+    .story,
+    .keyfacts {
+        break-inside: avoid;
+    }
+ 
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+ 
+    .chart {
+        overflow: visible;
+    }
+ 
+    /* shrink wide charts to fit an A4 page */
+    .chart .vega-embed {
+        zoom: 0.78;
+    }
+ 
+    .vega-embed details {
+        display: none;      /* hide the "..." menu */
+    }
+}

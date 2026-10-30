@@ -1,0 +1,155 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  
+  "title": "Deaths Attributed to Air Pollution per Country",
+  "data": {
+    "url": "https://raw.githubusercontent.com/tfuaa/FIT3179/refs/heads/main/air-pollution-deaths-2021-clean.csv"
+  },
+  "width": 620,
+  "height": 400,
+  "padding": {"left": -70, "right": 5, "top": 5, "bottom": 5},
+  "params": [
+    {
+      "name": "Population_Above",
+      "value": 0,
+      "bind": {
+        "input": "range",
+        "min": 0,
+        "max": 100000000,
+        "step": 1000000,
+        "name": "Minimum Population: "
+      }
+    },
+    {
+      "name": "Region_selection",
+      "bind": {
+        "input": "select",
+        "options": [
+          null,
+          "Africa",
+          "Americas",
+          "Europe",
+          "Eastern Mediterranean",
+          "South-East Asia",
+          "Western Pacific"
+        ],
+        "labels": [
+          "Show All",
+          "Africa",
+          "Americas",
+          "Europe",
+          "Eastern Mediterranean",
+          "South-East Asia",
+          "Western Pacific"
+        ],
+        "name": "WHO Region Selection: "
+      }
+    }
+  ],
+  "transform": [
+    {"filter": "datum.NumberofDeaths > 0"},
+    {"filter": "datum.Population > Population_Above"},
+    {"filter": "Region_selection == null || datum.Region == Region_selection"},
+    {
+        "calculate": "datum.ParentLocationCode == 'AFR' ? 'Africa' : datum.ParentLocationCode == 'AMR' ? 'Americas' : datum.ParentLocationCode == 'EUR' ? 'Europe' : datum.ParentLocationCode == 'EMR' ? 'Eastern Mediterranean' : datum.ParentLocationCode == 'SEAR' ? 'South-East Asia' : 'Western Pacific'",
+      "as": "Region"
+    },
+    {
+      "calculate": "datum.NumberofDeaths/datum.Population * 100000",
+      "as": "Deaths per 100,000 Population"
+    }
+  ],
+  "encoding": {
+    "x": {
+      "field": "Population",
+      "type": "quantitative",
+      "title": "Population",
+      "axis": {"tickCount": 7},
+      "scale": {"type": "log", "domain": [50000, 2000000000]
+      }
+    },
+    "y": {
+      "field": "NumberofDeaths",
+      "type": "quantitative",
+      "title": "Deaths Attributed to Air Pollution",
+      "axis": {"tickCount": 6},
+      "scale": {"type": "log", "domain": [10,10000000]}
+    }
+  },
+  "layer": [
+    {
+      "mark": "circle",
+      "encoding": {
+        "size": {
+          "field": "Deaths per 100,000 Population",
+          "type": "quantitative",
+          "scale": {
+            "type": "threshold",
+            "domain": [25,50,75,100,150],
+            "range": [10, 50, 150, 200, 300, 400]
+          },
+          "legend": {"format": ".0f", "orient": "bottom-right"}
+        },
+        "color": {
+          "field": "Region",
+          "type": "nominal",
+          "scale": {
+            "domain": [
+              "Africa",
+              "Americas",
+              "Europe",
+              "Eastern Mediterranean",
+              "South-East Asia",
+              "Western Pacific"
+            ],
+            "range": [
+              "#e41a1c",
+              "#984ea3",
+              "#ff7f00",
+              "#a6cee3",
+              "#377eb8",
+              "#a65628"
+            ]
+          },
+          "legend": {"orient": "top-left"}
+        },
+        "opacity": {"value": 0.6},
+        "tooltip": [
+          {"field": "Country", "type": "nominal"},
+          {"field": "Region", "type": "nominal"},
+          {"field": "Population", "type": "quantitative", "format": ","},
+          {"field": "NumberofDeaths", "type": "quantitative", "format": ",.0f", "title": "Deaths"},
+          {"field": "Deaths per 100,000 Population", "type": "quantitative", "format": ".2f"}
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "right",
+        "baseline": "middle",
+        "dx": -12,
+        "fontSize": 11.5,
+        "fontStyle": "italic"
+      },
+      "encoding": {
+        "text": {"field": "Country", "type": "nominal"},
+        "color": {"value": "black"},
+        "opacity": {
+          "condition": {
+            "test": "datum['Country'] == 'China' || datum['Country'] == 'Singapore' || datum['Country'] == 'Australia' || datum['Country'] == 'New Zealand' || datum['Country'] == 'India' || datum['Country'] == 'Nigeria' ||  datum['Country'] == 'United States of America'",
+            "value": 1
+          },
+          "value": 0
+        },
+        "tooltip": [
+          {"field": "Country", "type": "nominal"},
+          {"field": "Region", "type": "nominal"},
+          {"field": "Population", "type": "quantitative", "format": ","},
+          {"field": "NumberofDeaths", "type": "quantitative", "format": ",.0f", "title": "Deaths"},
+          {"field": "Deaths per 100,000 Population", "type": "quantitative", "format": ".2f"}
+        ]
+      }
+    }
+  ]
+}

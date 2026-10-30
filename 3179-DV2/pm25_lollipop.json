@@ -1,0 +1,61 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+
+  "title": "PM2.5 by month",
+
+  "data": {
+    "url": "https://raw.githubusercontent.com/tfuaa/FIT3179/refs/heads/main/pm25_daily.csv",
+    "format": { "type": "csv", "parse": { "date": "date:'%Y-%m-%d'", "pm25": "number" } }
+  },
+  "height": 200,
+  "width": 640,
+  "background": "transparent",
+
+  "encoding": {
+    "x": {
+      "field": "date",
+      "type": "ordinal",
+      "timeUnit": "yearmonth",
+      "title": "Month"
+    },
+    "y": {
+      "aggregate": "mean",
+      "field": "pm25",
+      "type": "quantitative",
+      "title": "Mean PM2.5 (µg/m³)"
+    },
+    "tooltip": [
+      {
+        "field": "date",
+        "type": "temporal",
+        "timeUnit": "yearmonth",
+        "title": "Month"
+      },
+      {
+        "aggregate": "mean",
+        "field": "pm25",
+        "type": "quantitative",
+        "title": "Mean PM2.5",
+        "format": ".2f"
+      },
+      {
+        "aggregate": "count",
+        "field": "pm25",
+        "type": "quantitative",
+        "title": "Observations"
+      }
+    ]
+  },
+
+  "layer": [
+    {
+      "mark": { "type": "rule", "color": "orangered", "strokeWidth": 2, "tooltip": true },
+      "encoding": {
+        "y2": { "datum": 0 }
+      }
+    },
+    {
+      "mark": { "type": "circle", "color": "orangered", "size": 250, "opacity": 1, "tooltip": true }
+    }
+  ]
+}
